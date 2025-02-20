@@ -1,0 +1,4943 @@
+1
+00:04:20,200 --> 00:04:24,150
+www.NapiProjekt.pl - nowa jakosc napisów.
+Napisy zostaly specjalnie dopasowane do Twojej wersji filmu.
+
+2
+00:04:24,200 --> 00:04:28,500
+.::DarkProject SubGroup::.
+DarkProject.org
+
+3
+00:04:28,700 --> 00:04:33,800
+.:: GrupaHatak.pl ::.
+>> Release24.pl <<
+
+4
+00:04:34,000 --> 00:04:38,800
+<<KinoMania SubGroup>>
+KinoMania.org
+
+5
+00:04:38,800 --> 00:04:42,700
+Tłumaczenie - Chudy & Igloo666
+
+6
+00:04:42,800 --> 00:04:45,400
+Korekta - Highlander
+
+7
+00:04:45,500 --> 00:04:48,500
+Dopasowanie do 720p WEB-DL CtrlHD:
+Bilu
+
+8
+00:04:59,400 --> 00:05:10,100
+PROMETEUSZ
+
+9
+00:05:31,300 --> 00:05:33,500
+Zawołaj Charliego.
+
+10
+00:05:43,600 --> 00:05:46,700
+Dr. Holloway!
+
+11
+00:05:48,200 --> 00:05:50,700
+Charlie!
+
+12
+00:05:58,300 --> 00:06:02,300
+- O co chodzi?
+/- Chodź tu, prędko!
+
+13
+00:06:05,200 --> 00:06:09,100
+/Wyspa Skye, Szkocja
+/Rok 2089
+
+14
+00:06:31,700 --> 00:06:36,200
+- Oszacowałaś ich wiek?
+- 35 tysięcy lat, może starsze.
+
+15
+00:06:59,800 --> 00:07:02,800
+Wolne żarty.
+
+16
+00:07:05,000 --> 00:07:08,000
+Ta sama konfiguracja.
+
+17
+00:07:08,500 --> 00:07:13,000
+Ale musi być starsza
+od pozostałych o tysiące lat.
+
+18
+00:07:25,700 --> 00:07:29,200
+Chyba chcą, byśmy ich odszukali.
+
+19
+00:07:30,400 --> 00:07:32,300
+Tak.
+
+20
+00:07:48,100 --> 00:07:52,500
+/Naukowy statek badawczy: Prometeusz
+
+21
+00:07:52,700 --> 00:07:55,000
+/Liczebność załogi: 17
+
+22
+00:07:55,100 --> 00:07:58,100
+/Data: 21 grudnia 2093 roku
+
+23
+00:07:58,200 --> 00:08:01,700
+/Odległość od Ziemi: 3,27 x 10^14 km
+
+24
+00:08:01,800 --> 00:08:07,100
+/Cel podróży: Nieujawniony
+
+25
+00:08:30,000 --> 00:08:32,800
+/Dr Elizabeth Shaw
+/Połączenie ustanowione
+
+26
+00:08:37,500 --> 00:08:41,100
+/- Co się stało temu panu?
+/- Zmarł.
+
+27
+00:08:42,200 --> 00:08:45,100
+/Czemu im nie pomożesz?
+
+28
+00:08:45,500 --> 00:08:49,200
+/Nie chcą mojej pomocy.
+/Wierzą w innego boga.
+
+29
+00:08:51,200 --> 00:08:53,600
+/Dlaczego umarł?
+
+30
+00:08:53,700 --> 00:08:58,100
+/- Prędzej czy później wszyscy umierają.
+/- Jak mamusia?
+
+31
+00:08:58,900 --> 00:09:00,100
+/Tak.
+
+32
+00:09:02,000 --> 00:09:03,900
+/Dokąd trafiają?
+
+33
+00:09:05,300 --> 00:09:07,600
+/Ludzie różnie to nazywają.
+
+34
+00:09:07,700 --> 00:09:11,000
+/Niebem, rajem...
+
+35
+00:09:11,600 --> 00:09:14,300
+/Bez względu na nazwę,
+/zawsze jest to piękne miejsce.
+
+36
+00:09:14,400 --> 00:09:16,500
+/Skąd wiesz?
+
+37
+00:09:18,000 --> 00:09:20,500
+/Ponieważ chcę w to wierzyć.
+
+38
+00:09:20,500 --> 00:09:23,000
+/A ty w co wierzysz, Ellie?
+
+39
+00:09:26,800 --> 00:09:29,400
+/Połączenie utracone
+
+40
+00:09:56,000 --> 00:09:58,200
+/Dzień dobry, Davidzie.
+
+41
+00:09:58,700 --> 00:10:00,800
+/Przesyłam wiadomość.
+
+42
+00:10:03,700 --> 00:10:06,300
+/Brak odpowiedzi.
+
+43
+00:10:15,500 --> 00:10:17,300
+/Choć ze względu na wymowę
+
+44
+00:10:17,500 --> 00:10:21,400
+/zaliczany jest do grupy
+/obecnie martwych języków indoeuropejskich,
+
+45
+00:10:21,400 --> 00:10:27,000
+/to nadal jest fonemiczny
+/w swojej rodowitej formie sprzed ponad 5 tysięcy lat.
+
+46
+00:10:27,400 --> 00:10:29,500
+/Przećwiczmy bajkę Schleichera.
+
+47
+00:10:29,600 --> 00:10:31,800
+/Powtarzaj za mną.
+
+48
+00:10:43,500 --> 00:10:44,700
+/Doskonale.
+
+49
+00:10:45,400 --> 00:10:47,800
+/- Panie Lawrence?
+/- Tak?
+
+50
+00:10:47,800 --> 00:10:50,000
+/- Prosiłbym o bibułkę.
+/- Dziękuję.
+
+51
+00:10:57,000 --> 00:11:00,100
+/Za często się tym bawisz.
+/Masz to we krwi.
+
+52
+00:11:00,400 --> 00:11:03,200
+/Michaelu George'u Hartleyu,
+/filozof z ciebie.
+
+53
+00:11:03,400 --> 00:11:06,200
+/A z ciebie świrus!
+
+54
+00:11:10,200 --> 00:11:13,400
+/- Boli jak diabli!
+/- Pewnie, że boli.
+
+55
+00:11:13,800 --> 00:11:15,400
+/To na czym polega sztuczka?
+
+56
+00:11:15,500 --> 00:11:19,400
+/Sztuczka, Williamie Potterze, polega na tym,
+/by nie zwracać uwagi na ból.
+
+57
+00:11:19,700 --> 00:11:22,800
+"Sztuczka, Williamie Potterze,
+
+58
+00:11:22,900 --> 00:11:26,800
+polega na tym,
+by nie zwracać uwagi na ból".
+
+59
+00:11:31,800 --> 00:11:34,600
+"Sztuczka, Williamie Potterze,
+
+60
+00:11:35,600 --> 00:11:38,500
+polega na tym,
+by nie zwracać uwagi na ból".
+
+61
+00:11:52,500 --> 00:12:02,400
+/Uwaga!
+/Docieramy do celu!
+
+62
+00:13:04,700 --> 00:13:07,100
+Szlafrok!
+
+63
+00:13:17,200 --> 00:13:18,200
+Jak długo?
+
+64
+00:13:19,100 --> 00:13:22,900
+2 lata, 4 miesiące, 18 dni,
+36 godzin, 15 minut.
+
+65
+00:13:23,300 --> 00:13:24,300
+Jakieś straty?
+
+66
+00:13:24,900 --> 00:13:26,100
+Straty, proszę pani?
+
+67
+00:13:26,100 --> 00:13:27,500
+Czy ktoś zmarł?
+
+68
+00:13:27,900 --> 00:13:30,300
+Nie, proszę pani.
+Wszyscy żyją.
+
+69
+00:13:31,500 --> 00:13:33,300
+No to ich obudź.
+
+70
+00:13:44,300 --> 00:13:46,900
+Proszę się odprężyć, dr Shaw.
+
+71
+00:13:47,500 --> 00:13:49,300
+Jestem David.
+
+72
+00:13:51,000 --> 00:13:55,400
+Pani ciało i umysł są w stanie szoku
+wywołanego hibernacją.
+
+73
+00:13:55,800 --> 00:13:57,900
+Wszystko w porządku,
+to prawidłowa reakcja.
+
+74
+00:13:57,900 --> 00:13:59,200
+Ellie?
+
+75
+00:13:59,300 --> 00:14:01,500
+Dolecieliśmy, maleńka.
+
+76
+00:14:07,400 --> 00:14:09,200
+/Pijcie dużo wody.
+
+77
+00:14:09,200 --> 00:14:10,900
+/Dużo płynów.
+
+78
+00:14:12,000 --> 00:14:14,400
+/Nawodnienie pobudza mięśnie.
+
+79
+00:14:18,100 --> 00:14:19,800
+/Do całej załogi:
+
+80
+00:14:20,200 --> 00:14:22,800
+/Prosimy spożywać
+/wysoce proteinowe koktajle.
+
+81
+00:14:27,400 --> 00:14:29,400
+A to co, u licha?
+
+82
+00:14:32,100 --> 00:14:33,200
+Są święta.
+
+83
+00:14:33,300 --> 00:14:36,100
+Dzięki nim wiem,
+że czas nie stanął w miejscu.
+
+84
+00:14:36,400 --> 00:14:39,600
+Za chwilę rozpocznie się odprawa, kapitanie.
+
+85
+00:14:39,700 --> 00:14:41,200
+Zapewne zechce pan dołączyć.
+
+86
+00:14:41,300 --> 00:14:43,700
+Jeszcze nie zjadłem śniadania.
+
+87
+00:14:44,100 --> 00:14:45,600
+Można się dosiąść?
+
+88
+00:14:46,700 --> 00:14:49,400
+Jestem Millburn. Biolog.
+Miło mi cię poznać.
+
+89
+00:14:52,500 --> 00:14:56,300
+Słuchaj, bez urazy, ale...
+
+90
+00:14:56,400 --> 00:14:58,500
+Spałem dwa lata.
+
+91
+00:14:59,000 --> 00:15:01,300
+Nie przyleciałem tu,
+żeby się kumplować.
+
+92
+00:15:02,100 --> 00:15:05,600
+Jestem tu dla kasy.
+£apiesz?
+
+93
+00:15:08,300 --> 00:15:09,600
+Dobrze.
+
+94
+00:15:10,000 --> 00:15:12,800
+Stawiam stówę,
+że chodzi o badanie terraformiczne.
+
+95
+00:15:12,800 --> 00:15:14,900
+Powiedzieliby nam,
+gdyby o to chodziło.
+
+96
+00:15:14,900 --> 00:15:18,400
+Guzik powiedzą.
+To ekspedycja za prywatne pieniądze.
+
+97
+00:15:18,400 --> 00:15:20,200
+- Niech będzie stówa.
+- No i git.
+
+98
+00:15:24,900 --> 00:15:26,700
+Wyglądasz na zdenerwowaną, El.
+
+99
+00:15:26,900 --> 00:15:29,200
+Próbuję stać twardo na ziemi.
+
+100
+00:15:29,200 --> 00:15:31,100
+- Nie wątpię.
+- Dzień dobry.
+
+101
+00:15:31,500 --> 00:15:37,200
+Miło mi znów widzieć osoby,
+które zatrudniłam osobiście.
+
+102
+00:15:37,400 --> 00:15:39,800
+Przedstawię się pozostałym.
+Jestem Meredith Vickers,
+
+103
+00:15:39,900 --> 00:15:42,300
+mam dopilnować,
+byście wykonali swoją pracę.
+
+104
+00:15:42,600 --> 00:15:44,600
+W porządku.
+Zaczynajmy.
+
+105
+00:15:50,600 --> 00:15:52,400
+/Korporacja Weyland.
+
+106
+00:15:52,400 --> 00:15:54,800
+/Budujemy lepsze światy.
+
+107
+00:15:55,900 --> 00:15:57,100
+Witajcie, przyjaciele.
+
+108
+00:15:59,600 --> 00:16:01,300
+Nazywam się Peter Weyland.
+
+109
+00:16:03,200 --> 00:16:05,000
+Jestem waszym pracodawcą.
+
+110
+00:16:05,300 --> 00:16:09,000
+Nagranie to pochodzi
+z 22 czerwca 2091 roku.
+
+111
+00:16:09,400 --> 00:16:11,100
+Jeśli je oglądacie,
+
+112
+00:16:11,100 --> 00:16:15,800
+to dotarliście do celu,
+a ja już dawno nie żyję.
+
+113
+00:16:16,800 --> 00:16:18,800
+Obym spoczywał w pokoju.
+
+114
+00:16:19,300 --> 00:16:22,800
+Jest tu z wami pewien mężczyzna.
+Nazywa się David.
+
+115
+00:16:23,100 --> 00:16:25,800
+Jest kimś, kogo z powodzeniem
+mógłbym nazwać synem.
+
+116
+00:16:26,300 --> 00:16:29,100
+Niestety, nie jest człowiekiem.
+
+117
+00:16:29,300 --> 00:16:32,900
+Nigdy się nie zestarzeje,
+nigdy nie umrze,
+
+118
+00:16:32,900 --> 00:16:37,100
+a mimo to nie jest w stanie
+docenić tych niezwykłych darów,
+
+119
+00:16:37,100 --> 00:16:41,600
+gdyż wymagałoby to jedynej rzeczy,
+której David nie posiada.
+
+120
+00:16:41,700 --> 00:16:43,500
+Duszy.
+
+121
+00:16:43,800 --> 00:16:48,000
+Całe życie spędziłem szukając odpowiedzi
+na następujące pytania:
+
+122
+00:16:48,400 --> 00:16:50,200
+Jakie jest nasze pochodzenie?
+
+123
+00:16:50,200 --> 00:16:51,900
+Po co żyjemy?
+
+124
+00:16:52,000 --> 00:16:53,700
+Co się z nami dzieje po śmierci?
+
+125
+00:16:54,100 --> 00:16:55,700
+Ostatecznie natrafiłem na dwoje ludzi,
+
+126
+00:16:55,700 --> 00:16:58,800
+którzy przekonali mnie,
+że są o krok od poznania odpowiedzi.
+
+127
+00:16:58,800 --> 00:17:02,000
+Dr. Holloway i dr Shaw,
+wstańcie proszę.
+
+128
+00:17:04,300 --> 00:17:07,200
+To oni przewodzą tą ekspedycją.
+
+129
+00:17:07,300 --> 00:17:11,900
+Tytan Prometeusz
+pragnął zrównać ludzi z bogami,
+
+130
+00:17:11,900 --> 00:17:15,400
+za co został wygnany z Olimpu.
+
+131
+00:17:16,500 --> 00:17:21,000
+Przyjaciele, nadszedł czas,
+by wreszcie tam powrócił.
+
+132
+00:17:22,100 --> 00:17:23,600
+Zapraszam.
+
+133
+00:17:27,200 --> 00:17:28,700
+Oddaję wam głos.
+
+134
+00:17:36,600 --> 00:17:39,900
+W porządku.
+
+135
+00:17:40,400 --> 00:17:42,800
+Nigdy wcześniej nie przemawiałem po duchu.
+
+136
+00:17:43,800 --> 00:17:47,300
+Pokażę wam, dlaczego tu jesteście.
+
+137
+00:17:52,800 --> 00:17:58,600
+Widzicie zdjęcia wykopalisk archeologicznych
+z różnych zakątków naszego globu.
+
+138
+00:17:58,800 --> 00:18:03,600
+Egipskie, majańskie,
+sumeryjskie, babilońskie.
+
+139
+00:18:03,700 --> 00:18:06,500
+Ostatnie pochodzi z Hawajów,
+następne zaś z Mezopotamii.
+
+140
+00:18:06,700 --> 00:18:08,200
+To tutaj odkryliśmy niedawno.
+
+141
+00:18:08,200 --> 00:18:11,300
+Malowidło skalne datowane na 35 tys. lat,
+
+142
+00:18:11,300 --> 00:18:13,500
+pochodzące z wyspy Skye w Szkocji.
+
+143
+00:18:13,500 --> 00:18:18,200
+Te starożytne cywilizacje
+dzieliły stulecia,
+
+144
+00:18:18,300 --> 00:18:21,600
+nie miały ze sobą
+żadnego kontaktu, a mimo to...
+
+145
+00:18:25,100 --> 00:18:28,300
+ten sam piktogram ukazujący ludzi
+oddających cześć gigantom
+
+146
+00:18:28,400 --> 00:18:32,600
+wskazującym gwiazdy
+został odkryty w każdej z nich.
+
+147
+00:18:33,300 --> 00:18:38,700
+Jedyna galaktyka, która odpowiada malowidłom
+jest tak oddalona od Ziemi,
+
+148
+00:18:39,000 --> 00:18:43,900
+że nie ma mowy, aby te prymitywne cywilizacje
+mogły wiedzieć o jej istnieniu.
+
+149
+00:18:44,000 --> 00:18:45,500
+Tak się jednak składa,
+
+150
+00:18:47,300 --> 00:18:48,500
+że ta galaktyka
+
+151
+00:18:49,900 --> 00:18:51,300
+posiada słońce
+
+152
+00:18:52,200 --> 00:18:54,000
+bardzo podobne do naszego.
+
+153
+00:18:54,600 --> 00:18:58,700
+Z naszych dalekosiężnych obserwacji wynikało,
+że jest tam planeta.
+
+154
+00:19:01,000 --> 00:19:05,200
+Tylko jedna, z własnym księżycem,
+zdolna utrzymać życie.
+
+155
+00:19:06,200 --> 00:19:08,200
+Przylecieliśmy na nią dziś rano.
+
+156
+00:19:10,400 --> 00:19:12,600
+Twierdzicie więc,
+że jesteśmy tu z powodu mapy,
+
+157
+00:19:12,600 --> 00:19:15,300
+którą znaleźliście sobie w jaskini,
+zgadza się?
+
+158
+00:19:16,600 --> 00:19:18,100
+- Nie.
+- Tak.
+
+159
+00:19:20,100 --> 00:19:22,700
+To nie mapa, ale zaproszenie.
+
+160
+00:19:22,700 --> 00:19:24,500
+Od kogo?
+
+161
+00:19:25,800 --> 00:19:28,000
+Nazwaliśmy ich Inżynierami.
+
+162
+00:19:28,200 --> 00:19:29,800
+Inżynierami?
+
+163
+00:19:29,900 --> 00:19:34,000
+Powiecie nam,
+cóż takiego skonstruowali?
+
+164
+00:19:35,600 --> 00:19:37,300
+Nas.
+
+165
+00:19:40,200 --> 00:19:42,000
+Bzdura.
+
+166
+00:19:43,100 --> 00:19:46,700
+Macie coś na poparcie swojej tezy?
+
+167
+00:19:47,300 --> 00:19:52,300
+Jeśli zamierzacie zdyskredytować
+trzy stulecia darwinizmu, to...
+
+168
+00:19:54,700 --> 00:19:56,800
+Skąd macie pewność?
+
+169
+00:19:56,900 --> 00:19:58,800
+Ja nie mam.
+
+170
+00:19:58,800 --> 00:20:00,900
+Ale chcę w to wierzyć.
+
+171
+00:20:28,800 --> 00:20:30,000
+Proszę państwa.
+
+172
+00:20:30,900 --> 00:20:36,000
+Panna Vickers prosi was na słówko
+przed rozpoczęciem wyprawy.
+
+173
+00:20:42,400 --> 00:20:43,600
+Przyjemnie tu.
+
+174
+00:20:43,600 --> 00:20:48,400
+To w zasadzie odrębny moduł
+z samodzielnym systemem podtrzymywania życia.
+
+175
+00:20:48,500 --> 00:20:50,100
+Powietrze. Żywność.
+
+176
+00:20:50,200 --> 00:20:54,000
+Posiada wszystko, co niezbędne
+do przetrwania w nieprzyjaznym środowisku.
+
+177
+00:20:54,100 --> 00:20:55,900
+Czyli mieszka w kapsule ratunkowej.
+
+178
+00:20:56,000 --> 00:20:58,200
+Owszem.
+
+179
+00:20:58,200 --> 00:21:00,100
+Lubię minimalizować ryzyko.
+
+180
+00:21:01,200 --> 00:21:04,500
+Davidzie, podaj państwu drinki.
+
+181
+00:21:05,000 --> 00:21:07,800
+Ja napiję się wódki bez lodu.
+
+182
+00:21:08,400 --> 00:21:10,000
+Charlie, spójrz.
+
+183
+00:21:10,100 --> 00:21:12,200
+To kapsuła medyczna Paulinga.
+
+184
+00:21:12,500 --> 00:21:14,600
+Wyprodukowano ich zaledwie tuzin.
+
+185
+00:21:15,100 --> 00:21:16,100
+Panno Shaw.
+
+186
+00:21:16,100 --> 00:21:18,900
+/Proszę opisać uraz.
+
+187
+00:21:19,000 --> 00:21:20,800
+Proszę tego nie dotykać.
+
+188
+00:21:20,800 --> 00:21:22,800
+To bardzo drogi sprzęt.
+
+189
+00:21:23,300 --> 00:21:26,000
+Wstawia bypassy.
+Do czego jest pani potrzebna?
+
+190
+00:21:27,600 --> 00:21:31,300
+Sądzę, że mogła zajść drobna pomyłka
+w kwestii naszych relacji.
+
+191
+00:21:31,500 --> 00:21:34,700
+Zaimponowaliście Weylandowi na tyle,
+że zechciał sponsorować tę wyprawę,
+
+192
+00:21:34,700 --> 00:21:38,600
+ja sądzę jednak, że wasi Inżynierowie
+to jedynie gryzmoły dzikusów
+
+193
+00:21:38,700 --> 00:21:41,000
+żyjących w brudnych jaskiniach.
+
+194
+00:21:41,000 --> 00:21:44,900
+Ale załóżmy, że się mylę
+i znajdziecie tam te istoty.
+
+195
+00:21:45,400 --> 00:21:47,400
+Nie podchodzicie do nich,
+
+196
+00:21:47,500 --> 00:21:49,300
+nie rozmawiacie z nimi,
+
+197
+00:21:49,300 --> 00:21:52,100
+nie robicie nic,
+poza zdawaniem mi raportu.
+
+198
+00:21:55,400 --> 00:21:59,600
+Panno Vickers, czy istnieje jakiś ukryty cel,
+o którym nam pani nie mówi?
+
+199
+00:22:00,200 --> 00:22:03,600
+Moja firma wyłożyła miliardy,
+by sprowadzić was w to miejsce.
+
+200
+00:22:03,600 --> 00:22:05,900
+Gdyby opłacił pan wszystko
+z własnej kieszeni, panie Holloway,
+
+201
+00:22:06,000 --> 00:22:09,600
+z przyjemnością realizowalibyśmy
+pańskie cele.
+
+202
+00:22:10,800 --> 00:22:12,500
+Ale to nie pańskie pieniądze.
+
+203
+00:22:12,500 --> 00:22:14,700
+Dlatego jest pan jedynie pracownikiem.
+
+204
+00:22:15,700 --> 00:22:17,600
+Skoro nie możemy nawet nawiązać kontaktu,
+
+205
+00:22:17,700 --> 00:22:20,100
+to po co nas tu w ogóle sprowadzono?
+
+206
+00:22:20,800 --> 00:22:23,700
+Weyland był przesądnym człowiekiem.
+
+207
+00:22:24,500 --> 00:22:27,200
+Chciał mieć na pokładzie kogoś wierzącego.
+
+208
+00:22:29,200 --> 00:22:30,400
+Zdrowie.
+
+209
+00:22:34,000 --> 00:22:35,600
+Żadnej odpowiedzi?
+
+210
+00:22:35,600 --> 00:22:37,000
+/Przykro mi, ale nie.
+
+211
+00:22:37,000 --> 00:22:39,000
+Może nie zrozumieli.
+
+212
+00:22:40,500 --> 00:22:42,400
+Jak twoje lekcje, Davidzie?
+
+213
+00:22:43,600 --> 00:22:48,900
+Przez dwa lata rozbierałem
+starożytne języki na czynniki pierwsze.
+
+214
+00:22:48,900 --> 00:22:51,700
+Jestem pewien,
+że zdołam się z nimi porozumieć,
+
+215
+00:22:51,700 --> 00:22:54,400
+zakładając, że państwa teza jest słuszna.
+
+216
+00:22:54,800 --> 00:22:56,900
+"Zakładając, że jest słuszna".
+Dobre!
+
+217
+00:22:57,000 --> 00:22:59,900
+Dlatego nazywają ją tezą, doktorze.
+
+218
+00:23:03,000 --> 00:23:04,300
+A ty co się cieszysz?
+
+219
+00:23:04,300 --> 00:23:06,700
+W porządku, panie Ravel,
+panie Chance, posadźmy ptaszynę.
+
+220
+00:23:06,800 --> 00:23:08,900
+- Przyjąłem.
+- Tak jest, kapitanie.
+
+221
+00:23:10,600 --> 00:23:13,100
+- Jak idzie?
+- Œwietnie.
+
+222
+00:23:14,500 --> 00:23:15,800
+W porządku, szefie.
+
+223
+00:23:16,100 --> 00:23:18,300
+/Mówi wasz kapitan.
+
+224
+00:23:18,300 --> 00:23:21,100
+- Przygotujcie się na zejście.
+- Tak jest, kapitanie.
+
+225
+00:23:21,600 --> 00:23:23,600
+Ciebie także się to tyczy, Vickers.
+
+226
+00:23:23,700 --> 00:23:25,400
+/Wszystkie systemy aktywne.
+
+227
+00:23:32,800 --> 00:23:34,100
+/Jaką mamy atmosferę?
+
+228
+00:23:34,200 --> 00:23:40,500
+71% azotu, 21% tlenu,
+śladowe ilości argonu.
+
+229
+00:23:40,600 --> 00:23:42,200
+To się nazywa pogoda.
+
+230
+00:23:42,300 --> 00:23:43,400
+Jak w domu.
+
+231
+00:23:43,400 --> 00:23:46,100
+Pod warunkiem,
+że oddychasz przez rurę wydechową.
+
+232
+00:23:46,300 --> 00:23:47,900
+Ponad 3% dwutlenku węgla.
+
+233
+00:23:48,000 --> 00:23:50,600
+Dwie minuty bez kombinezonu
+i jesteś trupem.
+
+234
+00:23:53,500 --> 00:23:54,700
+Góra po lewej.
+
+235
+00:23:54,700 --> 00:23:56,600
+16 tys. metrów!
+
+236
+00:23:56,600 --> 00:23:58,900
+Mount Everest to przy niej karzeł.
+
+237
+00:23:59,000 --> 00:24:01,400
+Dobra, nawróć.
+
+238
+00:24:01,500 --> 00:24:04,400
+Posłuży nam za punkt wejścia w atmosferę.
+
+239
+00:24:05,900 --> 00:24:09,400
+Mamy obraz równiny.
+Podłoże jest solidne.
+
+240
+00:24:10,000 --> 00:24:11,700
+Mogą to być pokłady metalu.
+
+241
+00:24:32,300 --> 00:24:34,400
+Brak fal radiowych i źródeł ciepła.
+
+242
+00:24:34,400 --> 00:24:35,800
+Nikogo nie ma w domu!
+
+243
+00:24:36,800 --> 00:24:41,300
+"Na pustyni nie ma nic.
+A ludzie nie chcą niczego".
+
+244
+00:24:41,400 --> 00:24:42,900
+Co to?
+
+245
+00:24:44,000 --> 00:24:46,100
+Cytat z filmu, który lubię.
+
+246
+00:24:50,300 --> 00:24:52,100
+Przeleć między tymi wzgórzami.
+
+247
+00:24:52,100 --> 00:24:54,300
+Zmniejsz prędkość o sto węzłów.
+
+248
+00:24:58,900 --> 00:25:01,600
+Przelatuję. Powolutku.
+
+249
+00:25:07,200 --> 00:25:09,500
+- Bez gwałtownych manewrów, chłopcy.
+- Tam!
+
+250
+00:25:09,800 --> 00:25:11,700
+Co ty robisz?
+
+251
+00:25:11,700 --> 00:25:14,600
+Dr. Holloway, może pan tak usiądzie?
+
+252
+00:25:15,800 --> 00:25:18,800
+Tam.
+Bóg nie tworzy od linijki.
+
+253
+00:25:18,800 --> 00:25:20,700
+Dolina po prawej!
+
+254
+00:25:20,700 --> 00:25:23,000
+Kapitanie, zdoła pan tam wylądować?
+
+255
+00:25:23,100 --> 00:25:25,400
+Nie byłoby ze mnie pożytku,
+gdybym nie zdołał.
+
+256
+00:25:25,400 --> 00:25:28,800
+Panie Ravel, 90 stopni w prawo.
+
+257
+00:25:33,600 --> 00:25:36,400
+1,5 km na lewo od dziobu.
+
+258
+00:25:37,100 --> 00:25:38,900
+Zainicjować sekwencję lądowania!
+
+259
+00:25:38,900 --> 00:25:40,800
+- Przejść na ręczne!
+/- Rozpoczynam lądowanie!
+
+260
+00:25:40,900 --> 00:25:42,000
+- Powoli.
+- W porządku.
+
+261
+00:25:42,100 --> 00:25:43,900
+Tak, maleńka!
+
+262
+00:25:46,100 --> 00:25:49,100
+- Posadzimy go za pięć...
+/- Przygotowuję silniki RC5.
+
+263
+00:25:49,100 --> 00:25:50,100
+cztery...
+
+264
+00:25:53,200 --> 00:25:55,100
+dwa...
+Delikatnie.
+
+265
+00:26:29,700 --> 00:26:33,200
+Kapitanie, proszę powiedzieć ekipie badawczej,
+by założyła kombinezony
+
+266
+00:26:33,500 --> 00:26:35,200
+i dołączyła do nas w śluzie powietrznej.
+
+267
+00:26:35,200 --> 00:26:36,900
+Pozostało zaledwie 6 godzin dnia.
+
+268
+00:26:37,000 --> 00:26:38,000
+Zaczekajcie z tym do rana.
+
+269
+00:26:38,100 --> 00:26:39,400
+Nie. Nie. Nie.
+
+270
+00:26:39,400 --> 00:26:42,900
+Mamy święta, kapitanie,
+a ja chcę otworzyć prezenty.
+
+271
+00:26:43,300 --> 00:26:45,800
+Pójdziesz z nami.
+
+272
+00:26:45,900 --> 00:26:47,400
+Z przyjemnością.
+
+273
+00:26:52,700 --> 00:26:56,600
+/Uwaga!
+/Rampa zostanie opuszczona za 5 minut.
+
+274
+00:26:57,700 --> 00:27:00,900
+Jackson.
+Po co ci to?
+
+275
+00:27:01,000 --> 00:27:03,000
+Chodzi o bezpieczeństwo ekspedycji.
+
+276
+00:27:03,100 --> 00:27:05,700
+Mam dbać, by nikomu nic się nie stało.
+
+277
+00:27:07,000 --> 00:27:10,200
+To ekspedycja naukowa.
+Żadnej broni.
+
+278
+00:27:10,200 --> 00:27:13,000
+W porządku.
+W takim razie powodzenia.
+
+279
+00:27:15,800 --> 00:27:18,000
+Davidzie, czemu założyłeś kombinezon?
+
+280
+00:27:19,300 --> 00:27:20,200
+Słucham?
+
+281
+00:27:20,300 --> 00:27:24,500
+Nie oddychasz, zapomniałeś?
+Po co ci więc kombinezon?
+
+282
+00:27:25,000 --> 00:27:27,400
+Tak zostałem zaprogramowany.
+
+283
+00:27:27,400 --> 00:27:31,400
+Ludzie czują się bezpieczniej
+w obecności podobnych sobie.
+
+284
+00:27:32,700 --> 00:27:36,300
+Bez kombinezonu
+nie spełniałbym swojej roli.
+
+285
+00:27:37,200 --> 00:27:39,400
+Bardzo starali się was
+upodobnić do ludzi, co?
+
+286
+00:27:39,400 --> 00:27:41,100
+Mam nadzieję, że nie za bardzo.
+
+287
+00:27:50,600 --> 00:27:54,100
+/Uwaga!
+/Rampa zostanie opuszczona za 15 sekund.
+
+288
+00:27:58,700 --> 00:28:04,300
+/Rampa zostanie opuszczona za
+/5... 4... 3... 2... 1...
+
+289
+00:28:23,900 --> 00:28:26,600
+To mały krok dla ludzkości.
+
+290
+00:28:27,200 --> 00:28:28,900
+Ty tak poważnie?
+
+291
+00:28:33,400 --> 00:28:36,200
+Gotowi?
+Wiem, że tak!
+
+292
+00:28:47,100 --> 00:28:49,500
+Fifield, zbadaj spektrografem tę strukturę.
+
+293
+00:28:49,500 --> 00:28:52,100
+Chcę wiedzieć, czy powstała naturalnie,
+czy ktoś ją stworzył.
+
+294
+00:28:52,100 --> 00:28:54,300
+Nie jestem w stanie określić,
+czy powstała naturalnie,
+
+295
+00:28:54,300 --> 00:28:56,800
+ale mogę powiedzieć,
+że jest pusta w środku.
+
+296
+00:29:20,900 --> 00:29:24,700
+Prometeusz, widzicie to?
+
+297
+00:29:24,800 --> 00:29:27,800
+Potwierdzam, widzimy.
+
+298
+00:29:35,300 --> 00:29:36,900
+- Gotowy?
+- Tak.
+
+299
+00:29:37,100 --> 00:29:38,100
+To do dzieła.
+
+300
+00:30:11,100 --> 00:30:13,600
+- Idź pierwszy.
+- Panie przodem.
+
+301
+00:30:14,600 --> 00:30:15,700
+Ostrożnie.
+
+302
+00:30:15,800 --> 00:30:19,200
+/- Prometeusz, wchodzimy.
+- Przyjąłem.
+
+303
+00:30:53,000 --> 00:30:55,800
+Co tam jest?
+Coś w rodzaju korytarza?
+
+304
+00:30:57,300 --> 00:30:59,800
+Panie Fifield,
+potrzebna nam siatka struktury.
+
+305
+00:30:59,800 --> 00:31:01,500
+Chcę mieć podgląd całego wnętrza.
+
+306
+00:31:02,300 --> 00:31:06,200
+Jeśli jest tu coś godnego uwagi,
+to te szczeniątka to znajdą.
+
+307
+00:31:06,700 --> 00:31:07,400
+Szczeniątka?
+
+308
+00:31:07,400 --> 00:31:10,000
+Tak, moje szczeniątka.
+
+309
+00:31:24,600 --> 00:31:27,900
+Prometeusz, skanujemy.
+
+310
+00:31:31,900 --> 00:31:33,000
+Przyjąłem.
+
+311
+00:31:45,300 --> 00:31:46,800
+Niech mnie szlag.
+
+312
+00:32:00,900 --> 00:32:04,400
+- Fifield, masz odczyt?
+- Tak.
+
+313
+00:32:04,500 --> 00:32:07,400
+Szczeniątka twierdzą, że tędy.
+
+314
+00:32:25,800 --> 00:32:27,500
+Spójrzcie na to.
+
+315
+00:32:34,600 --> 00:32:36,400
+Charlie!
+
+316
+00:32:40,200 --> 00:32:41,700
+Jezu!
+
+317
+00:32:41,700 --> 00:32:44,100
+Promienie słoneczne ogrzewają wodę.
+
+318
+00:32:44,300 --> 00:32:45,600
+Sprawdźcie wilgotność.
+
+319
+00:32:45,700 --> 00:32:48,000
+Rzućcie też okiem
+na poziom dwutlenku węgla.
+
+320
+00:32:48,000 --> 00:32:52,500
+Na zewnątrz jest trujący,
+a tutaj nie.
+
+321
+00:32:52,500 --> 00:32:53,700
+Można oddychać.
+
+322
+00:32:55,800 --> 00:32:57,300
+Co ty robisz?
+
+323
+00:32:57,300 --> 00:33:00,200
+- Charlie, nie bądź idiotą!
+- Nie bądź taka sceptyczna.
+
+324
+00:33:00,300 --> 00:33:02,300
+Coś tu generuje atmosferę.
+
+325
+00:33:02,400 --> 00:33:03,900
+Davidzie?
+
+326
+00:33:04,000 --> 00:33:05,400
+Dr Holloway ma rację.
+
+327
+00:33:05,500 --> 00:33:07,200
+W zasadzie jest czystsza niż na Ziemi.
+
+328
+00:33:07,200 --> 00:33:09,000
+Dokonywali tu terraformacji.
+
+329
+00:33:09,100 --> 00:33:11,900
+- Proszę, nie...
+- Zrzucam to, Ellie.
+
+330
+00:33:11,900 --> 00:33:14,100
+/- Odbiór. Słyszysz mnie?
+- Życz mi powodzenia, słonko.
+
+331
+00:33:14,200 --> 00:33:16,400
+/Odbiór. Nie zdejmuj hełmu.
+
+332
+00:33:33,700 --> 00:33:35,400
+Szalony draniu!
+
+333
+00:33:40,100 --> 00:33:42,400
+Prometeusz, przełączcie
+na kamery na kombinezonach,
+
+334
+00:33:42,500 --> 00:33:46,600
+jeśli nadal chcecie oglądać ten cyrk.
+Zdejmujemy hełmy.
+
+335
+00:33:46,900 --> 00:33:48,900
+/Przyjąłem. Przełączam.
+
+336
+00:33:50,600 --> 00:33:52,600
+No już. Wypłacaj.
+
+337
+00:33:53,400 --> 00:33:54,900
+Niby co?
+
+338
+00:33:54,900 --> 00:33:56,200
+Jak to co?
+
+339
+00:33:56,300 --> 00:33:58,900
+Coś wygenerowało tam powietrze.
+
+340
+00:33:58,900 --> 00:34:00,800
+A to, kolego,
+jest właśnie terraformowanie.
+
+341
+00:34:00,800 --> 00:34:02,700
+Nie. Nie.
+Zakład dotyczył celu ekspedycji.
+
+342
+00:34:02,800 --> 00:34:05,800
+Gdybyś powiedział, że staruszek
+chce pogadać z Marsjanami, to wtedy ok.
+
+343
+00:34:05,800 --> 00:34:07,500
+Daruj sobie i wypłacaj stówę!
+
+344
+00:34:07,500 --> 00:34:10,700
+Wykupię sobie u Vickers erotyczny taniec.
+Co ty na to?
+
+345
+00:34:12,400 --> 00:34:14,600
+/Tu jest minus 24 stopnie.
+
+346
+00:34:15,200 --> 00:34:17,000
+/To dlaczego woda nie zamarzła?
+
+347
+00:34:17,300 --> 00:34:18,800
+/Może to nie jest woda.
+
+348
+00:34:19,400 --> 00:34:21,100
+/Tylko marsjańskie siki.
+
+349
+00:34:22,300 --> 00:34:28,200
+To twoja naukowa teoria, panie biologu?
+
+350
+00:34:32,100 --> 00:34:35,000
+Cokolwiek to jest,
+bez wątpienia zawiera kolagen.
+
+351
+00:34:35,100 --> 00:34:37,000
+To może być jakiś rodzaj osadu.
+
+352
+00:34:56,900 --> 00:34:58,300
+Imponujące.
+
+353
+00:35:17,600 --> 00:35:18,900
+Co to było?
+
+354
+00:35:19,400 --> 00:35:20,600
+Davidzie?
+
+355
+00:35:23,800 --> 00:35:25,100
+Co to było?
+
+356
+00:35:26,700 --> 00:35:27,800
+Davidzie?
+
+357
+00:35:36,400 --> 00:35:37,800
+Ellie!
+
+358
+00:35:42,500 --> 00:35:44,100
+A to co, u licha?
+
+359
+00:35:44,200 --> 00:35:46,300
+Jak dobrze, że nie wzięliśmy broni.
+
+360
+00:35:46,300 --> 00:35:47,300
+Wstawaj, Ellie.
+Idziemy.
+
+361
+00:35:47,300 --> 00:35:48,800
+Czyj to był pomysł?
+
+362
+00:35:49,000 --> 00:35:50,200
+Nie zgubcie ich!
+
+363
+00:35:52,900 --> 00:35:53,900
+Prędzej!
+
+364
+00:36:00,900 --> 00:36:02,400
+Którędy pobiegł?
+
+365
+00:36:07,700 --> 00:36:08,800
+Zaczekaj!
+
+366
+00:36:14,100 --> 00:36:16,700
+Tam jest.
+
+367
+00:36:18,200 --> 00:36:21,000
+Mój Boże, Charlie!
+Znaleźliśmy ich!
+
+368
+00:36:21,000 --> 00:36:22,700
+Co to znaczy, ich?
+
+369
+00:36:23,900 --> 00:36:25,300
+To oni, Ellie.
+
+370
+00:36:26,000 --> 00:36:27,500
+To chyba drzwi.
+
+371
+00:36:28,000 --> 00:36:32,000
+Ucięły mu głowę.
+
+372
+00:36:33,100 --> 00:36:34,600
+Sukinkoty!
+
+373
+00:36:36,300 --> 00:36:37,700
+Mieli rację.
+
+374
+00:36:41,300 --> 00:36:43,600
+Wolałabyś, żeby się mylili?
+
+375
+00:36:47,100 --> 00:36:48,300
+Davidzie,
+
+376
+00:36:48,600 --> 00:36:51,500
+proszę, powiedz,
+że zdołasz to odczytać.
+
+377
+00:36:51,500 --> 00:36:52,900
+Prawdopodobnie.
+
+378
+00:36:54,500 --> 00:36:56,500
+Ja się stąd zmywam!
+
+379
+00:36:58,600 --> 00:37:00,600
+Fifield! A ty dokąd?
+
+380
+00:37:02,000 --> 00:37:03,000
+Co?
+
+381
+00:37:04,900 --> 00:37:07,600
+Słuchaj, jestem zwykłym geologiem!
+
+382
+00:37:07,700 --> 00:37:09,500
+Lubię skały. Uwielbiam je.
+
+383
+00:37:10,500 --> 00:37:13,000
+Jasne jest, że skały gówno was obchodzą.
+
+384
+00:37:13,000 --> 00:37:16,700
+Interesują was natomiast gigantyczne zwłoki,
+
+385
+00:37:16,800 --> 00:37:21,100
+a w tej kwestii
+nie mam absolutnie nic do zaoferowania!
+
+386
+00:37:22,900 --> 00:37:26,500
+Za pozwoleniem, wracam na statek.
+
+387
+00:37:29,900 --> 00:37:31,900
+Ktoś wraca ze mną?
+
+388
+00:37:31,900 --> 00:37:33,000
+Zostajesz?
+
+389
+00:37:34,800 --> 00:37:38,500
+- Nie. Statek brzmi dobrze.
+- Tak. Bardzo dobrze.
+
+390
+00:37:39,000 --> 00:37:42,800
+Gratuluję spotkania ze stwórcą.
+
+391
+00:37:42,800 --> 00:37:43,600
+Dziękuję.
+
+392
+00:37:45,000 --> 00:37:46,700
+Weź się w garść, człowieku.
+
+393
+00:37:50,100 --> 00:37:53,000
+A myślałem, że to ty jesteś szalony.
+
+394
+00:38:00,800 --> 00:38:02,800
+Masz czytnik węgla?
+
+395
+00:38:04,500 --> 00:38:05,500
+Dziękuję.
+
+396
+00:38:12,600 --> 00:38:14,800
+Od jak dawna nie żyje?
+
+397
+00:38:16,500 --> 00:38:19,200
+Od mniej więcej dwóch tysięcy lat.
+
+398
+00:38:22,500 --> 00:38:24,100
+Co robisz, Davidzie?
+
+399
+00:38:25,200 --> 00:38:26,900
+Próbuję otworzyć drzwi.
+
+400
+00:38:26,900 --> 00:38:29,800
+Zaczekaj! Nie wiemy,
+co jest po drugiej stronie.
+
+401
+00:38:31,700 --> 00:38:33,000
+Przepraszam.
+
+402
+00:38:37,600 --> 00:38:40,200
+Ford, spójrz.
+To głowa!
+
+403
+00:38:49,800 --> 00:38:52,500
+Doskonale zachowana.
+
+404
+00:38:52,900 --> 00:38:54,900
+- Zabierzemy ją.
+- Tak.
+
+405
+00:38:58,800 --> 00:39:01,400
+Uderzająco podobna do ludzkiej.
+
+406
+00:39:18,000 --> 00:39:19,700
+Piękne malowidło.
+
+407
+00:39:20,700 --> 00:39:22,200
+To fresk.
+
+408
+00:39:34,700 --> 00:39:36,900
+Stój!
+Nie dotykaj tego.
+
+409
+00:39:37,000 --> 00:39:38,100
+Przepraszam.
+
+410
+00:39:39,300 --> 00:39:41,500
+Proszę, niczego nie dotykajcie.
+
+411
+00:39:42,000 --> 00:39:43,200
+Poci się.
+
+412
+00:40:21,700 --> 00:40:23,000
+Organiczne.
+
+413
+00:40:29,400 --> 00:40:30,500
+O nie!
+
+414
+00:40:30,600 --> 00:40:33,600
+Charlie, freski ulegają zmianie!
+
+415
+00:40:33,600 --> 00:40:36,200
+Chyba wpłynęliśmy na atmosferę
+w tym pomieszczeniu.
+
+416
+00:40:36,200 --> 00:40:38,300
+/Charlie, słyszysz mnie?
+
+417
+00:40:38,900 --> 00:40:40,100
+Głowa!
+
+418
+00:40:40,100 --> 00:40:42,400
+Ford, pomóż mi spakować głowę!
+
+419
+00:40:53,900 --> 00:40:55,700
+- Szefie.
+/- Co tam masz?
+
+420
+00:40:56,300 --> 00:40:58,500
+Nadciąga burza.
+
+421
+00:40:58,500 --> 00:41:00,700
+Krzemionka i ładunki elektrostatyczne.
+
+422
+00:41:00,700 --> 00:41:01,900
+/Cholera. Niedobrze.
+
+423
+00:41:01,900 --> 00:41:03,100
+Widzę ją.
+
+424
+00:41:06,800 --> 00:41:08,800
+/Do ekipy naziemnej, tu Janek.
+
+425
+00:41:09,000 --> 00:41:11,000
+/Musicie natychmiast wracać!
+
+426
+00:41:11,400 --> 00:41:13,000
+/Ekipa naziemna, słyszycie mnie?
+
+427
+00:41:13,000 --> 00:41:15,500
+/Zanotowaliśmy niesamowicie silny wiatr,
+/niosący krzemionkę
+
+428
+00:41:15,600 --> 00:41:18,000
+/i ładunek elektrostatyczny,
+/który usmaży wasze kombinezony.
+
+429
+00:41:18,000 --> 00:41:20,600
+Przyjęłam, ale potrzebujemy więcej czasu.
+
+430
+00:41:21,200 --> 00:41:24,000
+Za 15 minut podnoszę rampę.
+
+431
+00:41:24,100 --> 00:41:26,300
+/Mam szczerą nadzieję, że zdążycie.
+
+432
+00:41:28,800 --> 00:41:32,500
+Charlie! David!
+Musimy natychmiast wracać!
+
+433
+00:41:34,900 --> 00:41:37,200
+To tylko kolejny grobowiec.
+
+434
+00:41:40,800 --> 00:41:41,900
+Davidzie!
+
+435
+00:41:44,800 --> 00:41:46,900
+- Na trzy.
+- W górę!
+
+436
+00:41:46,900 --> 00:41:48,900
+Ruszajmy!
+
+437
+00:41:49,000 --> 00:41:51,000
+Powoli. Ostrożnie.
+
+438
+00:41:53,700 --> 00:41:56,400
+Davidzie, wracamy!
+
+439
+00:42:06,300 --> 00:42:09,000
+Prędzej, do diaska!
+Oni już ruszyli!
+
+440
+00:42:09,000 --> 00:42:10,200
+Ruchy!
+
+441
+00:42:11,400 --> 00:42:13,800
+/Prometeusz do ekipy naziemnej!
+/Kończy wam się czas!
+
+442
+00:42:13,800 --> 00:42:15,300
+/Powtarzam!
+/Kończy wam się czas!
+
+443
+00:42:15,400 --> 00:42:17,200
+Dobra, ruszajmy.
+
+444
+00:42:32,100 --> 00:42:33,700
+Jedź szybciej!
+
+445
+00:42:57,300 --> 00:42:58,700
+Charlie, głowa!
+
+446
+00:42:59,500 --> 00:43:01,400
+Ellie! Nie!
+Co ty wyprawiasz?
+
+447
+00:43:09,500 --> 00:43:11,500
+Rampa zostanie podniesiona za 5 sekund!
+
+448
+00:43:11,600 --> 00:43:12,400
+Cholera!
+
+449
+00:43:13,000 --> 00:43:15,200
+Niech to szlag!
+Trzymaj się!
+
+450
+00:43:16,100 --> 00:43:18,300
+- Psiakrew.
+- Rampa się podnosi!
+
+451
+00:43:20,400 --> 00:43:21,800
+Ellie! Nie ruszaj się!
+
+452
+00:43:26,700 --> 00:43:28,500
+Charlie!
+
+453
+00:43:30,800 --> 00:43:32,100
+Chwyć moją rękę!
+
+454
+00:43:43,100 --> 00:43:45,400
+Nie! Nie! Ellie!
+
+455
+00:44:24,600 --> 00:44:25,800
+Mam.
+
+456
+00:44:31,400 --> 00:44:33,700
+/Odkażanie na poziomie trzecim.
+
+457
+00:44:33,700 --> 00:44:35,700
+Co to miało być, Ellie?
+
+458
+00:44:35,700 --> 00:44:40,300
+Ryzykowałaś powodzenie całej misji,
+nie mówiąc o tym, że mogłaś zginąć!
+
+459
+00:44:40,600 --> 00:44:41,700
+Nic pani nie jest?
+
+460
+00:44:41,700 --> 00:44:44,400
+Nie. Dziękuję, Davidzie.
+
+461
+00:44:45,300 --> 00:44:47,000
+Przyjemność po mojej stronie.
+
+462
+00:44:47,100 --> 00:44:51,100
+Cieszymy się, że znów jesteście z nami,
+ale gdzie jest Millburn i Fifield?
+
+463
+00:44:51,300 --> 00:44:53,000
+/Jeszcze nie wrócili?
+
+464
+00:44:54,700 --> 00:44:56,400
+- Znajdź ich.
+- Dobrze.
+
+465
+00:44:58,900 --> 00:45:01,100
+Już tu byliśmy, Fifield!
+
+466
+00:45:01,100 --> 00:45:03,500
+No nie wiem,
+wszystko tu wygląda tak samo.
+
+467
+00:45:04,600 --> 00:45:06,400
+/Chłopaki, tu kapitan.
+/Słuchajcie.
+
+468
+00:45:07,400 --> 00:45:10,400
+Z uwagi na ładunki elektrostatyczne
+i siłę wiatru
+
+469
+00:45:11,000 --> 00:45:13,200
+nie mamy jak bezpiecznie po was wrócić.
+
+470
+00:45:13,200 --> 00:45:13,900
+Że co?
+
+471
+00:45:13,900 --> 00:45:16,600
+/Temperatura gwałtownie spada,
+/więc nie zdejmujcie hełmów
+
+472
+00:45:16,600 --> 00:45:19,800
+/i nie traćcie ciepła,
+dopóki burza nie minie.
+
+473
+00:45:20,500 --> 00:45:23,200
+Kapitanie,
+może pan coś przekazać naukowcowi
+
+474
+00:45:23,300 --> 00:45:25,300
+i tej jego nawiedzonej dziewczynie?
+
+475
+00:45:26,000 --> 00:45:29,300
+/- Ma pan pod ręką długopis?
+- Nie, myślę, że zapamiętam.
+
+476
+00:45:29,400 --> 00:45:31,400
+/Proszę im powiedzieć,
+/niech się pierdolą.
+
+477
+00:45:32,700 --> 00:45:34,600
+- Przyjął pan?
+/- Przyjąłem.
+
+478
+00:45:34,700 --> 00:45:36,600
+/Dobra, chłopaki,
+/nie wychylajcie się.
+
+479
+00:45:36,600 --> 00:45:39,100
+Przyjedziemy po was z rana.
+
+480
+00:45:40,100 --> 00:45:41,700
+/- Którędy teraz?
+- W porządku.
+
+481
+00:45:41,800 --> 00:45:43,900
+/Którędy?
+
+482
+00:45:57,100 --> 00:46:00,300
+Próbka jest czysta.
+Brak skażenia.
+
+483
+00:46:00,400 --> 00:46:01,600
+Davidzie.
+
+484
+00:46:04,700 --> 00:46:06,800
+Czy oni wszyscy nie żyją?
+
+485
+00:46:08,200 --> 00:46:10,000
+Co? Kto?
+
+486
+00:46:10,500 --> 00:46:14,100
+Wasi Inżynierowie.
+Wszyscy nie żyją?
+
+487
+00:46:14,100 --> 00:46:17,200
+Nie wiem.
+Dopiero co tu przybyliśmy.
+
+488
+00:46:17,700 --> 00:46:18,500
+Skanuj.
+
+489
+00:46:20,800 --> 00:46:22,600
+Obchodzi to panią w ogóle?
+
+490
+00:46:23,400 --> 00:46:24,900
+Weylanda obchodziło.
+
+491
+00:46:24,900 --> 00:46:28,100
+Dr Shaw, proszę na to spojrzeć.
+
+492
+00:46:31,900 --> 00:46:34,600
+- To nie jest egzoszkielet.
+- Nie.
+
+493
+00:46:34,600 --> 00:46:36,400
+Myślę, że to hełm.
+
+494
+00:46:37,000 --> 00:46:38,900
+Zobaczmy, czy uda się go zdjąć.
+
+495
+00:46:39,100 --> 00:46:41,500
+Powinno dać się go podważyć.
+
+496
+00:46:41,600 --> 00:46:43,800
+Jest dla nas zbyt ciężki.
+Davidzie?
+
+497
+00:46:51,000 --> 00:46:52,600
+Ostrożnie.
+
+498
+00:46:52,600 --> 00:46:54,100
+O tak?
+
+499
+00:47:08,200 --> 00:47:09,900
+Co on ma na głowie?
+
+500
+00:47:10,500 --> 00:47:15,700
+- Przypomina nowe komórki, w stanie...
+- Przemiany!
+
+501
+00:47:15,700 --> 00:47:16,600
+Tak.
+
+502
+00:47:16,600 --> 00:47:18,000
+Przemiany w co?
+
+503
+00:47:18,200 --> 00:47:20,700
+Możesz wbić stymulator
+w miejsce sinawe?
+
+504
+00:47:20,800 --> 00:47:24,800
+Myślę, że możemy oszukać system nerwowy,
+by myślał, że głowa wciąż żyje.
+
+505
+00:47:25,300 --> 00:47:26,700
+Trzydzieści amperów.
+
+506
+00:47:26,700 --> 00:47:29,500
+- W porządku.
+- Ale nie więcej.
+
+507
+00:47:29,900 --> 00:47:32,000
+Robię nacięcie.
+
+508
+00:47:32,800 --> 00:47:34,600
+Dobrze.
+
+509
+00:47:39,100 --> 00:47:41,600
+Zwiększ do czterdziestu.
+
+510
+00:47:42,600 --> 00:47:43,800
+Jest czterdzieści.
+
+511
+00:47:45,000 --> 00:47:46,600
+Widziałyście?
+
+512
+00:47:47,900 --> 00:47:49,800
+- Tak.
+- Widzicie!
+
+513
+00:47:49,800 --> 00:47:52,300
+Zwiększ o kolejne dziesięć.
+
+514
+00:47:52,300 --> 00:47:53,500
+Zwiększone.
+
+515
+00:47:55,700 --> 00:47:58,600
+Odrobinę za dużo.
+Zmniejsz o dziesięć.
+
+516
+00:47:58,700 --> 00:47:59,900
+Jezu! Zmniejszam.
+
+517
+00:47:59,900 --> 00:48:03,000
+- Zmniejsz o kolejne dwadzieścia.
+- Staram się.
+
+518
+00:48:03,000 --> 00:48:05,000
+- Ale nie idzie.
+- Zmniejsz do zera.
+
+519
+00:48:05,100 --> 00:48:06,900
+Ford, przerwij to!
+
+520
+00:48:06,900 --> 00:48:08,400
+O mój Boże!
+
+521
+00:48:08,500 --> 00:48:11,100
+Davidzie, natychmiast ją odizoluj!
+
+522
+00:48:11,300 --> 00:48:13,000
+Odizoluj?
+Natychmiast to wyłącz!
+
+523
+00:48:13,100 --> 00:48:14,700
+O Boże! Ten zapach!
+
+524
+00:48:33,700 --> 00:48:36,200
+Mimo wszystko śmiertelni.
+
+525
+00:48:43,100 --> 00:48:47,100
+Ford, pobierz próbkę.
+Rzucimy na nią okiem.
+
+526
+00:48:51,500 --> 00:48:54,100
+Nie, proszę pana.
+Ja się tym zajmę.
+
+527
+00:48:54,400 --> 00:48:57,300
+Tak, proszę pana.
+Zrozumiałem. Przepraszam.
+
+528
+00:48:57,900 --> 00:49:00,400
+Niestety odrobinę przedwcześnie.
+
+529
+00:49:04,800 --> 00:49:06,400
+Oczywiście, proszę pana.
+
+530
+00:49:34,300 --> 00:49:35,700
+Panna Vickers?
+
+531
+00:49:40,000 --> 00:49:41,400
+Co powiedział, Davidzie?
+
+532
+00:49:41,600 --> 00:49:44,700
+Nie sądzę, by chciał,
+abym pani powtórzył.
+
+533
+00:49:51,700 --> 00:49:53,700
+Co powiedział?
+
+534
+00:49:54,100 --> 00:49:56,400
+Przykro mi, to poufne.
+
+535
+00:49:56,400 --> 00:49:58,200
+Przysięgam,
+
+536
+00:49:59,200 --> 00:50:03,400
+że znajdę kabel,
+który cię zasila i go przetnę!
+
+537
+00:50:03,400 --> 00:50:05,900
+Co powiedział?
+
+538
+00:50:07,800 --> 00:50:09,500
+Powiedział:
+
+539
+00:50:10,000 --> 00:50:13,000
+"Postaraj się bardziej".
+
+540
+00:50:14,200 --> 00:50:17,100
+Napije się pani herbaty?
+
+541
+00:50:32,200 --> 00:50:34,700
+- Widok genetyczny.
+- Dobrze.
+
+542
+00:50:34,700 --> 00:50:36,900
+Rzućmy okiem na jego DNA.
+
+543
+00:50:46,700 --> 00:50:47,800
+Wyizoluj nić.
+
+544
+00:50:49,300 --> 00:50:50,200
+Dobrze.
+
+545
+00:50:51,200 --> 00:50:55,000
+- Porównaj z próbką genu.
+- Tak.
+
+546
+00:50:55,000 --> 00:50:56,500
+Nałóż.
+
+547
+00:50:56,600 --> 00:51:01,200
+/Przetwarzam.
+
+548
+00:51:03,100 --> 00:51:05,000
+/Zgodność DNA.
+
+549
+00:51:06,700 --> 00:51:07,900
+O mój Boże.
+
+550
+00:51:28,400 --> 00:51:30,000
+Zawiera w sobie nasz kod.
+
+551
+00:51:30,200 --> 00:51:32,100
+Kod wszystkiego, co znamy.
+
+552
+00:51:35,300 --> 00:51:36,800
+Co ich zabiło?
+
+553
+00:51:54,800 --> 00:51:57,500
+Wielkie rzeczy mają małe początki.
+
+554
+00:52:07,100 --> 00:52:09,100
+Przeszkadzam?
+
+555
+00:52:09,600 --> 00:52:12,400
+Pomyślałem, że przyda się panu
+nieco procentów.
+
+556
+00:52:15,700 --> 00:52:17,200
+Nalej sobie, kolego.
+
+557
+00:52:17,400 --> 00:52:19,700
+Dziękuję, ale to byłoby marnotrawstwo.
+
+558
+00:52:19,800 --> 00:52:23,000
+Racja. Prawie zapomniałem,
+że nie jesteś prawdziwy.
+
+559
+00:52:26,300 --> 00:52:29,800
+Przykro mi, że pańscy Inżynierowie
+nie żyją, dr. Holloway.
+
+560
+00:52:34,500 --> 00:52:37,700
+Uważasz, że straciliśmy czas
+przylatując tu, prawda?
+
+561
+00:52:38,400 --> 00:52:42,900
+To zależy od tego,
+co oczekiwaliście osiągnąć przylatując tu.
+
+562
+00:52:42,900 --> 00:52:45,900
+Oczekiwaliśmy poznać naszych stwórców.
+
+563
+00:52:46,000 --> 00:52:47,200
+Uzyskać odpowiedzi.
+
+564
+00:52:47,400 --> 00:52:51,000
+Dlaczego w ogóle nas stworzyli.
+
+565
+00:52:53,400 --> 00:52:55,800
+Jak pan sądzi,
+dlaczego mnie stworzyliście?
+
+566
+00:52:57,100 --> 00:52:59,500
+Stworzyliśmy cię dlatego, że mogliśmy.
+
+567
+00:53:01,300 --> 00:53:04,400
+Wyobraża pan sobie
+własne rozczarowanie
+
+568
+00:53:04,400 --> 00:53:07,200
+po usłyszeniu tych słów
+od swojego stwórcy?
+
+569
+00:53:11,600 --> 00:53:14,800
+To chyba dobrze, że nie jesteś w stanie
+poczuć rozczarowania.
+
+570
+00:53:14,800 --> 00:53:17,600
+W zasadzie to wspaniale.
+
+571
+00:53:17,600 --> 00:53:19,300
+Mogę pana o coś zapytać?
+
+572
+00:53:20,600 --> 00:53:21,600
+Pytaj.
+
+573
+00:53:21,700 --> 00:53:23,700
+Jak daleko by się pan posunął,
+
+574
+00:53:23,800 --> 00:53:28,600
+aby uzyskać odpowiedzi,
+dla których przebył pan tak długą drogę?
+
+575
+00:53:29,200 --> 00:53:30,700
+Do czego byłby pan zdolny?
+
+576
+00:53:30,700 --> 00:53:32,400
+Do wszystkiego.
+
+577
+00:53:33,400 --> 00:53:35,900
+Warto się chyba za to napić.
+
+578
+00:53:47,400 --> 00:53:49,300
+Chluśniem, bo uśniem, kolego.
+
+579
+00:53:53,400 --> 00:53:54,700
+Pańskie zdrowie.
+
+580
+00:53:59,600 --> 00:54:00,800
+To te istoty.
+
+581
+00:54:04,700 --> 00:54:05,900
+Są prawdziwe?
+
+582
+00:54:07,500 --> 00:54:08,800
+Oczywiście, że tak!
+
+583
+00:54:09,900 --> 00:54:11,600
+Jezu Chryste!
+
+584
+00:54:12,800 --> 00:54:14,100
+Spójrz na tę stertę!
+
+585
+00:54:14,600 --> 00:54:16,400
+Jaka jest wysoka.
+
+586
+00:54:17,700 --> 00:54:20,200
+Wygląda na to, że przed czymś uciekali.
+
+587
+00:54:21,600 --> 00:54:23,300
+Nie dotykaj, dobrze?
+
+588
+00:54:23,300 --> 00:54:26,800
+Te dziury powstały od wewnątrz.
+
+589
+00:54:27,500 --> 00:54:29,300
+Wyglądają, jakby eksplodowały.
+
+590
+00:54:30,000 --> 00:54:34,500
+To przypomina sceny z obrazów
+traktujących o holokauście.
+
+591
+00:54:53,900 --> 00:54:58,000
+Cokolwiek ich zabiło,
+już dawno nie żyje, nie?
+
+592
+00:54:58,000 --> 00:55:00,300
+/Millburn, Fifield, tu Prometeusz.
+
+593
+00:55:00,400 --> 00:55:01,600
+Jaka jest wasza pozycja?
+
+594
+00:55:01,700 --> 00:55:04,300
+Prometeusz, tu Millburn...
+
+595
+00:55:04,700 --> 00:55:08,500
+Jesteśmy na 7-4-0-1-4-7-7,
+a czemu pytasz?
+
+596
+00:55:08,500 --> 00:55:12,400
+Coś mi pika,
+jakiś kilometr na zachód od was.
+
+597
+00:55:12,500 --> 00:55:14,300
+Co to znaczy, pika?
+
+598
+00:55:14,400 --> 00:55:15,600
+/Cóż...
+
+599
+00:55:15,600 --> 00:55:19,600
+cokolwiek odbiera sonda,
+nie jest to martwe.
+
+600
+00:55:19,600 --> 00:55:21,400
+To jakaś forma życia.
+
+601
+00:55:22,600 --> 00:55:24,200
+Co to znaczy, forma życia?
+
+602
+00:55:24,700 --> 00:55:26,200
+Czy to się rusza?
+
+603
+00:55:26,900 --> 00:55:28,700
+Nie wydaje mi się.
+
+604
+00:55:29,100 --> 00:55:30,600
+Kapitanie...
+
+605
+00:55:30,600 --> 00:55:33,500
+/pan z pewnością nie widzi tego, co my.
+
+606
+00:55:33,500 --> 00:55:36,900
+/Ale gdyby pan widział,
+/to nie wspominałby o cholernym pikaniu.
+
+607
+00:55:36,900 --> 00:55:37,700
+Nie, chłopaki.
+
+608
+00:55:37,700 --> 00:55:41,100
+Sygnał pojawia się sporadycznie,
+odkąd nadeszła burza.
+
+609
+00:55:41,700 --> 00:55:44,800
+/To nie jest dla nas dobra wiadomość,
+/kapitanie!
+
+610
+00:55:46,000 --> 00:55:49,200
+/Czy to coś się porusza?
+
+611
+00:55:52,300 --> 00:55:55,100
+Nie, w zasadzie to zniknęło.
+
+612
+00:55:55,600 --> 00:55:59,100
+/- To pewnie jakaś usterka.
+- Co to znaczy, usterka?
+
+613
+00:55:59,600 --> 00:56:00,700
+/Dobra, chłopaki.
+
+614
+00:56:01,500 --> 00:56:02,900
+Kolorowych snów.
+
+615
+00:56:03,700 --> 00:56:05,600
+Tylko żadnego pedałowania.
+
+616
+00:56:05,600 --> 00:56:07,600
+/Kapitanie, jaka usterka?
+
+617
+00:56:08,100 --> 00:56:11,600
+/- Millburn! Millburn!
+/- Co to znaczy...? Zaczekaj!
+
+618
+00:56:13,700 --> 00:56:17,700
+/- Powiedział kilometr na zachód.
+/- Tak.
+
+619
+00:56:17,700 --> 00:56:21,300
+Nie chcemy tego sprawdzać, prawda?
+
+620
+00:56:21,400 --> 00:56:23,800
+- Jeszcze czego!
+- Gdzie się udamy?
+
+621
+00:56:23,800 --> 00:56:25,000
+Na wschód.
+
+622
+00:56:26,500 --> 00:56:27,900
+Tak, na wschód.
+
+623
+00:56:28,000 --> 00:56:28,900
+Pieprzona usterka!
+
+624
+00:56:29,000 --> 00:56:31,600
+Pikanie, usterki, formy życia!
+Co, do kurwy?
+
+625
+00:56:32,400 --> 00:56:36,800
+W oparciu o zachowanie podmiotów
+na holograficznych nagraniach,
+
+626
+00:56:36,900 --> 00:56:40,200
+wciąż próbujemy odgadnąć,
+dlaczego głowa zajęła się ogniem.
+
+627
+00:56:40,200 --> 00:56:44,100
+Zastanawiam się,
+czy nie doszło do wybuchu jakiejś epidemii.
+
+628
+00:56:49,600 --> 00:56:51,200
+Pani wzywała?
+
+629
+00:56:51,600 --> 00:56:53,800
+Mam ci coś ważnego do powiedzenia.
+
+630
+00:56:53,900 --> 00:56:55,000
+Co to takiego?
+
+631
+00:56:55,500 --> 00:57:00,000
+Róża, którą zamroziłem wraz z szampanem.
+
+632
+00:57:00,000 --> 00:57:03,600
+Miałem ci ją dać,
+gdybyśmy znaleźli to, czego szukaliśmy.
+
+633
+00:57:04,400 --> 00:57:07,800
+Znaleźliśmy to.
+Byli tu. To jest...
+
+634
+00:57:07,800 --> 00:57:13,400
+Najważniejsze odkrycie w historii ludzkości.
+
+635
+00:57:14,200 --> 00:57:15,800
+Tak, wiem.
+
+636
+00:57:17,700 --> 00:57:19,600
+To jest niesamowite, naprawdę.
+
+637
+00:57:19,600 --> 00:57:22,900
+Ale chciałem z nimi porozmawiać.
+
+638
+00:57:24,000 --> 00:57:26,500
+Nie chcesz wiedzieć, po co przybyli?
+
+639
+00:57:28,100 --> 00:57:29,800
+Dlaczego nas porzucili?
+
+640
+00:57:29,800 --> 00:57:31,700
+Pragnę odpowiedzi, maleńka.
+
+641
+00:57:31,900 --> 00:57:33,300
+Mieliśmy rację, Charlie.
+
+642
+00:57:33,900 --> 00:57:36,000
+Mam na to dowód.
+
+643
+00:57:37,900 --> 00:57:39,100
+Spójrz.
+
+644
+00:57:44,700 --> 00:57:48,000
+Ich materiał genetyczny poprzedza nasz.
+
+645
+00:57:48,100 --> 00:57:49,600
+Pochodzimy od nich.
+
+646
+00:57:50,700 --> 00:57:52,600
+- Żartujesz sobie.
+- Nie.
+
+647
+00:57:55,700 --> 00:57:58,000
+No dobrze.
+
+648
+00:58:00,500 --> 00:58:03,600
+Możesz więc już chyba zdjąć krzyżyk ojca.
+
+649
+00:58:04,300 --> 00:58:06,700
+Czemu miałabym to zrobić?
+
+650
+00:58:07,200 --> 00:58:08,700
+Ponieważ to oni nas stworzyli.
+
+651
+00:58:08,800 --> 00:58:10,500
+A kto stworzył ich?
+
+652
+00:58:11,000 --> 00:58:13,600
+Właśnie.
+Nigdy się tego nie dowiemy.
+
+653
+00:58:13,600 --> 00:58:15,800
+Wiemy natomiast jedno.
+
+654
+00:58:15,900 --> 00:58:20,100
+Nie ma nic wyjątkowego
+w tworzeniu życia, zgadza się?
+
+655
+00:58:20,200 --> 00:58:21,200
+Każdy może to zrobić.
+
+656
+00:58:21,300 --> 00:58:24,400
+Wystarczy jedynie szczypta DNA
+i połowa mózgu, mam rację?
+
+657
+00:58:27,500 --> 00:58:28,600
+Ja nie mogę.
+
+658
+00:58:30,000 --> 00:58:32,500
+Nie mogę stworzyć życia.
+
+659
+00:58:34,200 --> 00:58:37,300
+Jak to o mnie świadczy?
+
+660
+00:58:38,300 --> 00:58:42,800
+Ellie, nie to miałem...
+nie mówiłem o...
+
+661
+00:58:42,900 --> 00:58:44,800
+Dzieciach?
+
+662
+00:58:44,800 --> 00:58:46,000
+O nas.
+
+663
+00:58:55,100 --> 00:58:57,200
+Elizabeth Shaw,
+
+664
+00:58:57,200 --> 00:59:00,800
+jesteś najważniejszą osobą w moim życiu.
+
+665
+00:59:00,900 --> 00:59:02,700
+Kocham cię.
+
+666
+00:59:48,700 --> 00:59:50,200
+Nie.
+
+667
+00:59:53,000 --> 00:59:57,000
+Ile to jeszcze potrwa?
+
+668
+00:59:57,000 --> 01:00:00,800
+Nie wiem.
+Jestem tu tylko kapitanem.
+
+669
+01:00:09,000 --> 01:00:11,300
+To coś rzęzi jak zdychający kot.
+
+670
+01:00:11,300 --> 01:00:18,100
+To "coś" należało kiedyś
+do Stephena Stillsa.
+
+671
+01:00:19,600 --> 01:00:23,300
+Powinnam wiedzieć, kto to?
+
+672
+01:00:28,500 --> 01:00:30,300
+Jeśli chcesz się pieprzyć,
+
+673
+01:00:30,400 --> 01:00:34,900
+to nie musisz udawać,
+że interesuje cię skan piramidy.
+
+674
+01:00:35,200 --> 01:00:38,900
+Możesz po prostu powiedzieć,
+że chce ci się pieprzyć.
+
+675
+01:00:39,000 --> 01:00:42,000
+Mogłabym.
+
+676
+01:00:42,000 --> 01:00:49,000
+Ale po co w tym celu lecieć
+pół miliarda mil od wszystkich facetów?
+
+677
+01:00:53,000 --> 01:00:57,700
+Vickers!
+Tak się zastanawiałem...
+
+678
+01:01:02,700 --> 01:01:05,900
+Jesteś robotem?
+
+679
+01:01:12,400 --> 01:01:16,200
+W mojej kwaterze
+za dziesięć minut.
+
+680
+01:01:18,800 --> 01:01:23,800
+/Jeśli nie możesz być
+/z kimś, kogo kochasz
+
+681
+01:01:23,900 --> 01:01:28,700
+/Kochaj osobę,
+/z którą jesteś
+
+682
+01:01:34,800 --> 01:01:38,500
+Mill, co to za czarne ustrojstwo?
+
+683
+01:01:42,400 --> 01:01:45,100
+Gazpacho.
+
+684
+01:01:46,100 --> 01:01:47,400
+To tytoń?
+
+685
+01:01:48,300 --> 01:01:52,000
+- Palisz z respiratora?
+- Pewnie.
+
+686
+01:01:56,700 --> 01:01:58,700
+Fajeczka.
+
+687
+01:01:58,700 --> 01:02:04,200
+W imieniu wszystkich naukowców oświadczam,
+że wstyd mi za ciebie.
+
+688
+01:02:08,600 --> 01:02:10,800
+Millburn?
+Widzisz to coś?
+
+689
+01:02:10,800 --> 01:02:14,500
+Co to mogło być?
+Jakieś bóstwo?
+
+690
+01:02:14,600 --> 01:02:16,900
+Coś, co czcili?
+
+691
+01:02:17,000 --> 01:02:19,400
+- Nie wiem, wygląda jak...
+- Co to?!
+
+692
+01:02:19,400 --> 01:02:23,400
+- Co to, do cholery?!
+- O Boże. Zachowaj spokój.
+
+693
+01:02:23,400 --> 01:02:26,300
+- Co to ma być?!
+- Poradzę sobie.
+
+694
+01:02:26,400 --> 01:02:29,100
+Cześć, maleńki.
+
+695
+01:02:29,600 --> 01:02:31,400
+Prometeusz?
+
+696
+01:02:31,400 --> 01:02:35,300
+/Mamy tu podłużne stworzenie,
+/przypominające gada.
+
+697
+01:02:35,300 --> 01:02:39,700
+/Ma jakieś 30-40 cali
+/i jasną skórę.
+
+698
+01:02:39,800 --> 01:02:42,500
+Coś pięknego.
+
+699
+01:02:46,500 --> 01:02:50,700
+Są dwa!
+Aleś ładniutki.
+
+700
+01:02:51,600 --> 01:02:53,700
+Jezu, ależ to spore!
+Co to jest?
+
+701
+01:02:53,800 --> 01:02:56,000
+- Musisz zachować spokój.
+- Ten widok mnie nie uspokaja.
+
+702
+01:02:56,100 --> 01:02:58,900
+Musisz zachować spokój,
+bo jest piękna.
+
+703
+01:02:59,000 --> 01:03:04,100
+- Skąd wiesz, że to samica?
+- Bo zachowuje się jak dama. Spójrz.
+
+704
+01:03:10,400 --> 01:03:14,900
+- Jest urzeczona.
+- Chodź tutaj.
+
+705
+01:03:16,200 --> 01:03:18,700
+Już dobrze.
+
+706
+01:03:24,500 --> 01:03:27,700
+Silna jesteś!
+Już możesz mi pomóc.
+
+707
+01:03:27,700 --> 01:03:30,800
+Zabierz to!
+
+708
+01:03:31,100 --> 01:03:33,900
+- Odetnij to!
+- Nie tykam tego!
+
+709
+01:03:33,900 --> 01:03:39,300
+- O Boże, zaciska się.
+- Nie ruszam tego!
+
+710
+01:03:39,400 --> 01:03:41,300
+Na Boga, odetnij to!
+
+711
+01:03:41,400 --> 01:03:43,000
+Pogarszasz sprawę!
+
+712
+01:03:43,600 --> 01:03:48,100
+Zaciska się!
+£amie mi rękę!
+
+713
+01:03:49,100 --> 01:03:52,300
+- Cholera!
+- Odetnij to!
+
+714
+01:04:03,700 --> 01:04:08,000
+Jest w moim kombinezonie!
+O mój Boże!
+
+715
+01:05:06,300 --> 01:05:08,900
+/Shaw, wstałaś?
+
+716
+01:05:09,600 --> 01:05:11,400
+Tak, co jest?
+
+717
+01:05:11,400 --> 01:05:14,500
+/Burza minęła, ale nie mogę
+/połączyć się z Millburnem i Fifieldem.
+
+718
+01:05:14,500 --> 01:05:17,100
+/Zbieram ludzi i ruszamy ich szukać.
+
+719
+01:05:17,100 --> 01:05:20,600
+W porządku.
+Wiadomo, gdzie mogą być?
+
+720
+01:05:20,700 --> 01:05:24,900
+Ostatnio byli w miejscu,
+w którym znalazłaś tę głowę.
+
+721
+01:05:25,000 --> 01:05:27,800
+/- Już idziemy.
+- Dobrze.
+
+722
+01:05:27,800 --> 01:05:32,000
+- Chance, idziesz ze mną.
+- Dobrze, szefie.
+
+723
+01:05:33,800 --> 01:05:38,300
+- Ravel, naprawiłeś tę usterkę?
+- Nie, to pewnie wina sprzętu.
+
+724
+01:05:38,300 --> 01:05:42,500
+- Jaką usterkę?
+- Sonda wykryła jakąś formę życia.
+
+725
+01:05:43,000 --> 01:05:46,800
+Sygnał pojawia się co godzinę
+na parę sekund i znika.
+
+726
+01:05:46,800 --> 01:05:50,900
+- Mogę pójść ją naprawić.
+- Proszę bardzo.
+
+727
+01:05:51,900 --> 01:05:54,900
+Bądźcie ostrożni, doktorzy.
+
+728
+01:06:14,400 --> 01:06:16,800
+Fifield!
+
+729
+01:06:18,800 --> 01:06:21,500
+Millburn!
+
+730
+01:06:24,200 --> 01:06:27,300
+Dobra, schodzimy tam.
+
+731
+01:06:46,800 --> 01:06:49,800
+/Davidzie, jesteś sam?
+
+732
+01:06:50,800 --> 01:06:54,500
+- Tak, panno Vickers.
+/- Prześlij mi obraz z kamery.
+
+733
+01:06:54,600 --> 01:06:57,100
+Przyjąłem.
+
+734
+01:08:38,400 --> 01:08:41,700
+Ty sukinsynu.
+
+735
+01:08:42,600 --> 01:08:45,400
+Odciąłeś mnie.
+
+736
+01:09:05,500 --> 01:09:08,200
+Co to jest?
+
+737
+01:09:10,300 --> 01:09:12,000
+- Charlie!
+- Potknąłem się.
+
+738
+01:09:12,000 --> 01:09:15,100
+- Boże, jesteś chory.
+- Nic mi nie jest, skarbie.
+
+739
+01:09:15,200 --> 01:09:17,100
+Fifield!
+
+740
+01:09:17,200 --> 01:09:19,800
+Millburn!
+
+741
+01:09:25,000 --> 01:09:29,700
+Chance, na twoim miejscu
+nie dotykałbym tego.
+
+742
+01:09:30,800 --> 01:09:33,500
+- Doktor Shaw?
+- Tak?
+
+743
+01:09:33,600 --> 01:09:37,300
+Domyśla się pani,
+co wycieka z tych wazonów?
+
+744
+01:09:37,400 --> 01:09:41,800
+Nie. Były suche,
+gdy byliśmy tu ostatnio.
+
+745
+01:09:45,000 --> 01:09:49,000
+- Kapitanie!
+- Który to?
+
+746
+01:09:49,100 --> 01:09:51,000
+- Kto to?
+- Millburn.
+
+747
+01:09:51,800 --> 01:09:53,700
+Nie odwracaj go.
+
+748
+01:09:53,700 --> 01:09:56,600
+- Kochanie...
+- Charlie, co się dzieje?
+
+749
+01:09:56,800 --> 01:09:58,800
+Musisz mnie obejrzeć.
+
+750
+01:09:59,200 --> 01:10:01,700
+Znasz się na infekcjach.
+Co widzisz?
+
+751
+01:10:01,800 --> 01:10:03,600
+Nie jest dobrze.
+
+752
+01:10:03,800 --> 01:10:06,700
+Spójrz na mnie
+i powiedz, co widzisz.
+
+753
+01:10:09,800 --> 01:10:10,800
+O Boże.
+
+754
+01:10:10,900 --> 01:10:12,500
+Ford, chodź tutaj.
+
+755
+01:10:12,500 --> 01:10:15,200
+- Trzymaj się. Janek!
+- Co?
+
+756
+01:10:15,400 --> 01:10:17,000
+- Musimy wracać.
+- Co widzisz?
+
+757
+01:10:17,000 --> 01:10:18,700
+- Mamy rannego.
+- Powiedz mi, co widzisz.
+
+758
+01:10:18,700 --> 01:10:20,100
+Holloway jest chory!
+
+759
+01:10:20,300 --> 01:10:21,700
+Kiepsko to wygląda.
+
+760
+01:10:21,800 --> 01:10:24,200
+Coś się rusza
+w jego przełyku.
+
+761
+01:10:27,600 --> 01:10:31,800
+- Nic mi nie jest...
+- Janek! Pomóż mi!
+
+762
+01:10:32,100 --> 01:10:34,400
+Ford, chodź tutaj!
+Co się dzieje?
+
+763
+01:10:34,400 --> 01:10:36,500
+- Nic mi nie jest.
+- Idziemy.
+
+764
+01:10:36,800 --> 01:10:39,800
+Trzymam cię.
+Wyciągniemy cię stąd.
+
+765
+01:10:39,800 --> 01:10:41,200
+Prometeusz, zgłoście się.
+
+766
+01:10:41,200 --> 01:10:43,700
+- Uwaga na głowę.
+- Nic mi nie jest...
+
+767
+01:10:44,000 --> 01:10:45,400
+Podnieście go.
+
+768
+01:10:45,900 --> 01:10:49,200
+Prometeusz, zgłoście się.
+/Jest tam ktoś?
+
+769
+01:10:49,300 --> 01:10:50,400
+Mówi Vickers.
+
+770
+01:10:50,600 --> 01:10:53,400
+Potrzebuję zespołu medycznego
+przed śluzą.
+
+771
+01:10:53,600 --> 01:10:57,100
+/Trzeba zarządzić kwarantannę.
+/Holloway zachorował.
+
+772
+01:10:57,400 --> 01:10:59,900
+- Na co?
+- Po prostu zrób to, o co proszę!
+
+773
+01:10:59,900 --> 01:11:02,600
+/Zabierzmy go na statek.
+/Nie jesteśmy tu bezpieczni.
+
+774
+01:11:03,200 --> 01:11:05,700
+- Idę włożyć kombinezon.
+/- Charlie, mów do mnie!
+
+775
+01:11:05,700 --> 01:11:07,300
+/- Ruchy!
+/- Co to było?
+
+776
+01:11:07,300 --> 01:11:08,800
+/Idziemy!
+
+777
+01:11:10,200 --> 01:11:11,900
+/Nie możemy tu zostać!
+
+778
+01:11:12,200 --> 01:11:13,400
+/Ellie!
+
+779
+01:15:10,500 --> 01:15:12,100
+Nie wygląda dobrze.
+
+780
+01:15:12,200 --> 01:15:15,000
+Złapał tam coś?
+Zdejmowaliśmy hełmy.
+
+781
+01:15:15,000 --> 01:15:15,900
+Nie wiem.
+
+782
+01:15:15,900 --> 01:15:19,400
+Prometeusz, tu Janek.
+Zostawcie opuszczoną rampę.
+
+783
+01:15:19,500 --> 01:15:20,700
+/Tak jest, kapitanie.
+
+784
+01:15:20,700 --> 01:15:24,400
+Boże. Tak mi przykro.
+
+785
+01:15:25,000 --> 01:15:27,800
+Prędzej!
+
+786
+01:15:32,600 --> 01:15:35,400
+Prometeusz, czemu rampa nie jest opuszczona?!
+
+787
+01:15:35,800 --> 01:15:37,700
+Vickers, to rozkaz!
+
+788
+01:15:37,800 --> 01:15:39,400
+Opuść tę cholerną rampę!
+
+789
+01:15:39,400 --> 01:15:42,400
+Spójrz na mnie!
+Za późno. Jestem chory.
+
+790
+01:15:42,400 --> 01:15:44,400
+Wcale nie! Chodź!
+
+791
+01:15:45,100 --> 01:15:46,200
+Pomóż mi, Ford.
+
+792
+01:15:46,400 --> 01:15:49,900
+Janek do obsługi śluzy.
+/Natychmiast opuśćcie rampę!
+
+793
+01:15:50,000 --> 01:15:51,200
+Nie otwierać!
+
+794
+01:15:51,400 --> 01:15:52,900
+/Prometeusz, słyszycie mnie?
+
+795
+01:15:53,100 --> 01:15:55,500
+/Niech to szlag!
+/Opuśćcie rampę! To rozkaz!
+
+796
+01:15:55,900 --> 01:15:57,600
+Opuścić!
+
+797
+01:16:03,700 --> 01:16:05,000
+Co to ma znaczyć?
+
+798
+01:16:05,200 --> 01:16:06,400
+Nie wejdzie na pokład.
+
+799
+01:16:06,600 --> 01:16:08,300
+Vickers, on jest chory!
+
+800
+01:16:08,300 --> 01:16:10,900
+To widzę.
+Dlatego nie wejdzie!
+
+801
+01:16:11,800 --> 01:16:12,700
+Charlie!
+
+802
+01:16:12,900 --> 01:16:14,500
+Chance, chodź tu!
+
+803
+01:16:17,200 --> 01:16:18,000
+Proszę!
+
+804
+01:16:18,100 --> 01:16:19,900
+Wciąż możemy mu pomóc!
+
+805
+01:16:20,600 --> 01:16:23,700
+Lepiej pomóż sobie.
+Wszyscy na pokład, poza Hollowayem!
+
+806
+01:16:23,800 --> 01:16:24,900
+Nie zostawię go!
+
+807
+01:16:25,000 --> 01:16:26,100
+To zostań!
+
+808
+01:16:26,200 --> 01:16:27,200
+Czekaj!
+
+809
+01:16:27,300 --> 01:16:29,500
+Moglibyśmy go umieścić w kapsule medycznej!
+
+810
+01:16:29,600 --> 01:16:30,800
+Proszę, nie rób tego.
+
+811
+01:16:30,900 --> 01:16:32,400
+W porządku, Ellie.
+
+812
+01:16:32,500 --> 01:16:34,700
+- Vickers!
+- Co ty robisz?
+
+813
+01:16:34,900 --> 01:16:36,200
+Kocham cię, maleńka.
+
+814
+01:16:36,200 --> 01:16:37,400
+- Kocham cię...
+- Nie!
+
+815
+01:16:37,400 --> 01:16:38,800
+Ostrzegam, nie podchodź!
+
+816
+01:16:38,900 --> 01:16:40,500
+- Zrób to.
+- Cofnij się!
+
+817
+01:16:40,800 --> 01:16:43,000
+- Nie, Charlie!
+- Zrób to!
+
+818
+01:16:47,700 --> 01:16:49,800
+Nie!
+
+819
+01:16:58,500 --> 01:17:00,800
+Charlie!
+
+820
+01:17:17,300 --> 01:17:19,400
+Najgłębsze wyrazy współczucia.
+
+821
+01:17:20,600 --> 01:17:24,500
+Będę musiał to zabrać.
+Może być skażony.
+
+822
+01:17:25,200 --> 01:17:29,700
+Jeśli doszło do skażenia,
+to wszyscy byliśmy na nie narażeni.
+
+823
+01:17:31,100 --> 01:17:35,600
+Musimy przeprowadzić analizę krwi każdego,
+kto postawił nogę w piramidzie.
+
+824
+01:17:35,600 --> 01:17:37,000
+Oczywiście.
+
+825
+01:17:37,100 --> 01:17:37,700
+Tak?
+
+826
+01:17:45,800 --> 01:17:49,600
+Zdaję sobie sprawę,
+że w tych okolicznościach
+
+827
+01:17:50,200 --> 01:17:52,900
+pytanie może wydać się nieodpowiednie,
+
+828
+01:17:53,100 --> 01:17:57,700
+ale jako że zarządziła pani pełną kwarantannę,
+
+829
+01:17:57,800 --> 01:18:00,900
+moim obowiązkiem jest spytać.
+
+830
+01:18:01,300 --> 01:18:06,500
+Czy między panią i doktorem Hollowayem
+doszło w ostatnim czasie do zbliżenia?
+
+831
+01:18:06,600 --> 01:18:10,000
+Ponieważ byli państwo
+w zażyłych stosunkach,
+
+832
+01:18:10,300 --> 01:18:13,400
+nie chciałbym niczego pominąć...
+
+833
+01:18:14,600 --> 01:18:15,800
+No proszę.
+
+834
+01:18:19,500 --> 01:18:21,600
+Jest pani w ciąży.
+
+835
+01:18:23,600 --> 01:18:25,100
+Co?
+
+836
+01:18:25,500 --> 01:18:27,900
+Wygląda na to, że w trzecim miesiącu.
+
+837
+01:18:28,000 --> 01:18:30,700
+To niemożliwe.
+
+838
+01:18:31,200 --> 01:18:33,300
+Nie mogę być w ciąży.
+
+839
+01:18:33,300 --> 01:18:37,600
+Czy odbyła pani stosunek
+z doktorem Hollowayem?
+
+840
+01:18:37,600 --> 01:18:41,300
+Tak, ale to było
+dziesięć godzin temu.
+
+841
+01:18:42,100 --> 01:18:45,800
+Nie mogę być
+w trzecim miesiącu ciąży.
+
+842
+01:18:45,800 --> 01:18:50,500
+Cóż, pani doktor,
+nie jest to całkowicie normalny płód.
+
+843
+01:18:53,300 --> 01:18:58,100
+- Chcę to zobaczyć.
+- To chyba zły pomysł.
+
+844
+01:18:58,100 --> 01:19:01,200
+Davidzie, chcę to zobaczyć.
+
+845
+01:19:01,300 --> 01:19:03,900
+Powoli, pani doktor...
+
+846
+01:19:05,100 --> 01:19:07,400
+Chcę to zobaczyć.
+
+847
+01:19:07,500 --> 01:19:09,100
+Chcę się tego pozbyć.
+
+848
+01:19:09,200 --> 01:19:13,800
+Obawiam się, że nie mamy personelu
+do przeprowadzenia takiego zabiegu.
+
+849
+01:19:13,800 --> 01:19:17,600
+Najlepiej będzie umieścić panią
+w komorze kriogenicznej
+
+850
+01:19:17,700 --> 01:19:22,800
+- na czas powrotu na Ziemię.
+- Proszę, wyciągnij to ze mnie!
+
+851
+01:19:28,300 --> 01:19:32,900
+To musi być bardzo bolesne.
+Zaraz coś pani podam.
+
+852
+01:19:36,200 --> 01:19:39,500
+Już dobrze.
+
+853
+01:19:44,600 --> 01:19:49,600
+Zaraz ktoś przyjdzie,
+by umieścić panią w komorze.
+
+854
+01:19:54,100 --> 01:19:56,900
+Pewnie wydaje się pani,
+że Bóg panią opuścił.
+
+855
+01:19:56,900 --> 01:19:58,400
+Co?
+
+856
+01:19:58,400 --> 01:20:04,300
+Straciła pani dr. Hollowaya,
+a wcześniej podobna śmierć spotkała pani ojca.
+
+857
+01:20:04,500 --> 01:20:08,500
+Co go zabiło?
+Wirus Ebola?
+
+858
+01:20:13,400 --> 01:20:18,800
+- Skąd o tym wiesz?
+- Oglądałem pani sny.
+
+859
+01:20:41,600 --> 01:20:44,000
+Doktor Shaw?
+
+860
+01:20:44,300 --> 01:20:50,500
+Ubierzemy panią w kombinezon ochronny
+i zabierzemy do komory kriogenicznej.
+
+861
+01:20:51,300 --> 01:20:53,300
+Doktor Shaw?
+
+862
+01:20:53,300 --> 01:20:57,000
+Całkowicie odpłynęła.
+Przygotuj ją.
+
+863
+01:21:25,800 --> 01:21:30,500
+/Procedura awaryjna zainicjowana.
+/Proszę opisać uraz.
+
+864
+01:21:30,500 --> 01:21:33,100
+Potrzebuję cesarskiego cięcia!
+
+865
+01:21:33,200 --> 01:21:36,100
+/Błąd. Kapsuła przeznaczona
+/wyłącznie dla mężczyzn.
+
+866
+01:21:36,100 --> 01:21:38,500
+/Nie można wykonać
+/żądanej operacji.
+
+867
+01:21:38,600 --> 01:21:42,800
+/Proszę zgłosić się po pomoc
+/w innym miejscu.
+
+868
+01:21:43,500 --> 01:21:46,500
+Operacja brzucha.
+
+869
+01:21:47,000 --> 01:21:50,700
+Głęboka rana.
+Obce ciało.
+
+870
+01:21:51,400 --> 01:21:53,800
+Rozpocznij.
+
+871
+01:21:55,000 --> 01:21:58,500
+/Rozpoczynam zabieg chirurgiczny.
+
+872
+01:22:38,700 --> 01:22:41,700
+/Diagnostyka rozpoczęta.
+
+873
+01:22:46,100 --> 01:22:49,500
+Wyciągnij to!
+
+874
+01:22:51,600 --> 01:22:54,200
+O mój Boże!
+
+875
+01:22:55,500 --> 01:22:59,400
+- Szybciej!
+/- Podaję znieczulenie.
+
+876
+01:22:59,400 --> 01:23:01,700
+Proszę!
+
+877
+01:23:06,500 --> 01:23:09,900
+/Rozpoczynam zabieg.
+
+878
+01:23:49,400 --> 01:23:51,800
+O Boże...
+
+879
+01:23:54,200 --> 01:23:57,100
+O mój Boże...
+
+880
+01:24:33,400 --> 01:24:36,600
+Szybciej!
+
+881
+01:25:02,400 --> 01:25:04,600
+Mostek do hangaru.
+Mówi kapitan.
+
+882
+01:25:04,700 --> 01:25:07,000
+/- Tak, kapitanie?
+- Widzicie to, co ja?
+
+883
+01:25:07,100 --> 01:25:11,400
+- Odbieram obraz z kamery Fifielda.
+- Co takiego? Gdzie?
+
+884
+01:25:11,400 --> 01:25:15,500
+Tuż pod pieprzonym statkiem.
+
+885
+01:25:15,600 --> 01:25:20,100
+- Barnes, opuść rampę!
+- Fifield, słyszysz mnie?
+
+886
+01:25:32,800 --> 01:25:35,500
+Chwila.
+
+887
+01:25:42,700 --> 01:25:46,700
+Wallace, spójrz na to.
+
+888
+01:25:50,900 --> 01:25:53,000
+Fifield?
+
+889
+01:25:54,700 --> 01:25:58,600
+Co tam się wyprawia?!
+
+890
+01:26:10,900 --> 01:26:13,900
+Schodzę tam.
+Chance, ubieraj się.
+
+891
+01:26:14,000 --> 01:26:16,900
+/Nie pozwólcie mu wejść na statek!
+
+892
+01:26:30,000 --> 01:26:31,300
+Zabijcie go!
+
+893
+01:26:34,200 --> 01:26:36,200
+Strzelaj!
+
+894
+01:26:36,200 --> 01:26:38,600
+/Boże, pomóżcie mi!
+
+895
+01:26:38,600 --> 01:26:42,000
+- Gotowy, Chance?
+- Tak jest.
+
+896
+01:26:44,300 --> 01:26:47,100
+Zabierzcie go!
+
+897
+01:26:47,200 --> 01:26:50,400
+Wiejemy!
+
+898
+01:28:04,800 --> 01:28:06,300
+Spał pan.
+
+899
+01:28:07,200 --> 01:28:09,200
+Był pan na statku
+przez cały ten czas.
+
+900
+01:28:09,300 --> 01:28:11,700
+Dlaczego?
+
+901
+01:28:12,000 --> 01:28:15,500
+Zostało mi
+kilka dni życia.
+
+902
+01:28:15,600 --> 01:28:20,500
+Nie chciałem ich marnować nie będąc pewnym,
+czy dotrzymacie obietnicy.
+
+903
+01:28:20,600 --> 01:28:25,000
+- Czy poznacie mojego stwórcę.
+- Gotowe, proszę pana.
+
+904
+01:28:25,100 --> 01:28:28,000
+Nie powiedziałeś mu,
+że wszyscy są martwi?
+
+905
+01:28:28,100 --> 01:28:33,000
+Nie wszyscy, doktor Shaw.
+Jeden nadal żyje.
+
+906
+01:28:34,100 --> 01:28:37,800
+- Właśnie idziemy się z nim zobaczyć.
+- Co takiego?
+
+907
+01:28:38,000 --> 01:28:39,700
+Odwróć mnie.
+
+908
+01:28:39,800 --> 01:28:47,900
+Przekonała mnie pani,
+że jeśli te istoty nas stworzyły...
+
+909
+01:28:49,500 --> 01:28:54,000
+to mogą nas też uratować.
+Poproszę o laskę.
+
+910
+01:28:58,400 --> 01:29:03,100
+- A przynajmniej uratować mnie.
+- Przed czym?
+
+911
+01:29:03,900 --> 01:29:07,400
+Œmiercią, rzecz jasna.
+Pomóżcie mi wstać.
+
+912
+01:29:11,100 --> 01:29:13,800
+Poradzę sobie.
+
+913
+01:29:15,000 --> 01:29:16,700
+Tak jest.
+
+914
+01:29:16,800 --> 01:29:19,800
+Nic pan nie rozumie.
+O niczym nie wie.
+
+915
+01:29:19,800 --> 01:29:22,200
+Myliliśmy się co do tego miejsca.
+
+916
+01:29:22,300 --> 01:29:24,500
+Co do tych istot.
+
+917
+01:29:24,600 --> 01:29:28,000
+Pomyliłam się.
+Popełniliśmy straszliwy błąd!
+
+918
+01:29:28,000 --> 01:29:31,800
+Charlie...
+Doktor Holloway nie żyje.
+
+919
+01:29:33,500 --> 01:29:39,100
+- Musimy wracać!
+- A co zrobiłby teraz Charlie?
+
+920
+01:29:41,000 --> 01:29:43,500
+Teraz, gdy jesteśmy
+tak blisko
+
+921
+01:29:43,500 --> 01:29:48,700
+odpowiedzi na pytania
+dręczące ludzkość od zarania dziejów?
+
+922
+01:29:49,900 --> 01:29:54,800
+Jakże mogłaby pani wrócić,
+nie dowiedziawszy się, czym są?
+
+923
+01:30:00,900 --> 01:30:04,600
+A może utraciła pani wiarę?
+
+924
+01:31:00,900 --> 01:31:03,200
+Proszę.
+
+925
+01:31:10,000 --> 01:31:14,100
+Dokąd się pani wybiera?
+Wie pani, co to za miejsce?
+
+926
+01:31:14,200 --> 01:31:18,500
+To nie żaden dom Inżynierów.
+
+927
+01:31:19,000 --> 01:31:22,400
+Tylko placówka.
+Może nawet wojskowa.
+
+928
+01:31:22,500 --> 01:31:25,300
+Postawili ją na zadupiu,
+bo nie są na tyle głupi,
+
+929
+01:31:25,300 --> 01:31:29,300
+by tworzyć broń masowej zagłady
+na własnym podwórku.
+
+930
+01:31:29,500 --> 01:31:33,000
+Oto, czym jest
+to gówno w wazonach.
+
+931
+01:31:33,100 --> 01:31:35,200
+Produkowali je tu.
+
+932
+01:31:35,300 --> 01:31:37,900
+Ale zwróciło się przeciwko nim.
+
+933
+01:31:37,900 --> 01:31:40,500
+Koniec historii.
+
+934
+01:31:40,500 --> 01:31:44,900
+- Pora wracać do domu.
+- Jeden wciąż żyje.
+
+935
+01:31:49,700 --> 01:31:53,900
+Nie chcesz wiedzieć,
+co mają do powiedzenia?
+
+936
+01:31:55,600 --> 01:31:58,300
+Mam to gdzieś.
+
+937
+01:31:59,300 --> 01:32:02,800
+No tak.
+Jesteś tylko kapitanem.
+
+938
+01:32:03,500 --> 01:32:08,800
+- Zgadza się.
+- Ale musi ci na czymś zależeć.
+
+939
+01:32:10,500 --> 01:32:14,100
+W przeciwnym razie,
+co tu robisz?
+
+940
+01:32:16,600 --> 01:32:19,400
+Powiem tak:
+
+941
+01:32:20,000 --> 01:32:23,600
+Cokolwiek się tam wydarzy,
+
+942
+01:32:23,700 --> 01:32:28,000
+nie mogę pozwolić,
+by to gówno wróciło z nami.
+
+943
+01:32:29,000 --> 01:32:33,600
+Zrobię, co trzeba,
+aby do tego nie doszło.
+
+944
+01:32:34,200 --> 01:32:37,500
+Niech pan o to zadba, kapitanie.
+
+945
+01:32:51,200 --> 01:32:55,400
+- A jednak przyszłaś.
+- Myślałam, że tego chciałeś.
+
+946
+01:32:55,400 --> 01:33:00,300
+Dziwię się, że cię widzę po tym,
+jak próbowałaś mnie od tego odwieść.
+
+947
+01:33:00,400 --> 01:33:04,200
+- Zostaw nas, Davidzie.
+- Tak jest.
+
+948
+01:33:15,700 --> 01:33:20,500
+Umrzesz, jeśli tam pojedziesz.
+
+949
+01:33:21,200 --> 01:33:27,300
+Pesymistka z ciebie.
+Dlatego powinnaś była zostać w domu.
+
+950
+01:33:28,300 --> 01:33:33,300
+Myślałeś, że latami będę walczyć
+z zarządem o władzę,
+
+951
+01:33:33,300 --> 01:33:36,100
+podczas gdy ty wybierzesz się
+na poszukiwanie cudów
+
+952
+01:33:36,200 --> 01:33:40,200
+na zapomnianej
+przez Boga planecie?
+
+953
+01:33:43,300 --> 01:33:47,900
+Król sprawuje rządy,
+a następnie umiera.
+
+954
+01:33:48,700 --> 01:33:51,500
+To nieuniknione.
+
+955
+01:33:52,600 --> 01:33:56,400
+Taka jest naturalna kolej rzeczy.
+
+956
+01:34:09,600 --> 01:34:12,300
+Coś jeszcze?
+
+957
+01:34:12,800 --> 01:34:15,100
+Nie...
+
+958
+01:34:15,400 --> 01:34:17,700
+ojcze.
+
+959
+01:34:18,700 --> 01:34:21,200
+To wszystko.
+
+960
+01:34:32,700 --> 01:34:35,000
+Nie sądziłem,
+że masz to w sobie.
+
+961
+01:34:35,000 --> 01:34:38,500
+Przepraszam.
+Kiepski dobór słów.
+
+962
+01:34:39,500 --> 01:34:43,800
+Posiadasz wyjątkowy
+instynkt przetrwania, Elizabeth.
+
+963
+01:34:48,000 --> 01:34:52,300
+Co się stanie, gdy Weylanda zabraknie
+i nie będzie mógł cię programować?
+
+964
+01:34:52,300 --> 01:34:54,600
+Zapewne będę wolny.
+
+965
+01:34:54,600 --> 01:34:59,400
+- Pragniesz tego?
+- To pojęcie jest mi obce.
+
+966
+01:34:59,900 --> 01:35:05,300
+A skoro o tym mowa.
+Czyż nie każdy pragnie śmierci rodziców?
+
+967
+01:35:06,500 --> 01:35:08,800
+Ja nie pragnęłam.
+
+968
+01:35:08,800 --> 01:35:12,700
+Doktor Shaw.
+Miło, że pani do nas dołączyła.
+
+969
+01:35:27,500 --> 01:35:30,500
+- Może pan zdjąć hełm.
+- Co?
+
+970
+01:35:30,500 --> 01:35:33,300
+Można tutaj swobodnie oddychać.
+
+971
+01:35:33,300 --> 01:35:36,200
+- Jesteś pewny?
+- Tak.
+
+972
+01:35:36,300 --> 01:35:40,400
+Czekajcie, nie wiemy,
+jak zaraził się Holloway.
+
+973
+01:35:40,400 --> 01:35:43,200
+- Jeśli coś jest w powietrzu...
+- Nie jest.
+
+974
+01:35:43,200 --> 01:35:47,400
+- Skąd wiesz?
+- Pachnie w porządku.
+
+975
+01:35:48,900 --> 01:35:52,000
+- Idziemy?
+- Proszę.
+
+976
+01:35:55,900 --> 01:35:59,000
+- Mostek jest niedaleko.
+- Co to jest?
+
+977
+01:36:00,200 --> 01:36:03,100
+£adownia.
+
+978
+01:36:11,000 --> 01:36:14,300
+/Janek, widzisz to?
+
+979
+01:36:14,800 --> 01:36:18,200
+- Ile ich tam jest?
+/- Tysiące.
+
+980
+01:36:18,300 --> 01:36:21,000
+Co, u licha?
+
+981
+01:36:24,300 --> 01:36:27,900
+Ravel, pokaż mi plany.
+
+982
+01:36:29,000 --> 01:36:32,400
+Przerzucam na stół.
+
+983
+01:36:32,700 --> 01:36:36,700
+Odrzuć kopułę, wyodrębnij teren
+i prześlij na stół.
+
+984
+01:36:36,700 --> 01:36:39,900
+Już się robi.
+
+985
+01:36:41,900 --> 01:36:44,500
+Powiększ.
+
+986
+01:36:45,100 --> 01:36:47,500
+Obróć.
+
+987
+01:36:50,400 --> 01:36:52,800
+To statek.
+
+988
+01:36:52,800 --> 01:36:55,500
+Jezu Chryste...
+
+989
+01:36:56,300 --> 01:36:59,600
+Pieprzony statek.
+
+990
+01:37:01,700 --> 01:37:05,100
+Bez wątpienia są bardziej rozwiniętą rasą.
+
+991
+01:37:06,600 --> 01:37:11,700
+Ich komory hibernacyjne
+muszą robić wrażenie.
+
+992
+01:37:21,400 --> 01:37:25,800
+- Musieli dokądś lecieć.
+- Rozpracowałem przebieg ich trasy.
+
+993
+01:37:25,900 --> 01:37:32,000
+Zamierzali odlecieć,
+kiedy coś im przeszkodziło.
+
+994
+01:37:33,300 --> 01:37:36,300
+Odlecieć dokąd?
+
+995
+01:37:36,600 --> 01:37:40,300
+- Na Ziemię.
+- Po co?
+
+996
+01:37:40,300 --> 01:37:44,900
+Czasami by tworzyć,
+trzeba wpierw niszczyć.
+
+997
+01:37:46,800 --> 01:37:50,700
+- Gdzie on jest, Davidzie?
+- Tędy, proszę pana.
+
+998
+01:37:56,800 --> 01:38:00,800
+- Na pewno żyje?
+- Nie ma wątpliwości.
+
+999
+01:38:05,600 --> 01:38:09,900
+/- Możesz się z nim porozumieć?
+/- Uważam, że tak.
+
+1000
+01:38:45,100 --> 01:38:48,200
+Nic mi nie jest!
+
+1001
+01:38:48,200 --> 01:38:52,900
+Odezwij się do niego, Davidzie.
+Powiedz mu, że przybyliśmy, tak jak chciał.
+
+1002
+01:38:53,000 --> 01:38:55,800
+- Spytaj go, skąd pochodzą.
+- Co pani robi?
+
+1003
+01:38:55,900 --> 01:38:58,700
+Spytaj, co to za ładunek.
+Zabił jego towarzyszy.
+
+1004
+01:38:58,800 --> 01:39:00,900
+Dość tego.
+Davidzie.
+
+1005
+01:39:00,900 --> 01:39:04,200
+Stworzyliście to tutaj,
+by użyć przeciw nam.
+
+1006
+01:39:04,200 --> 01:39:06,800
+- Dlaczego?
+- Uciszcie ją, do cholery!
+
+1007
+01:39:09,300 --> 01:39:13,300
+Muszę wiedzieć, czym wam zawiniliśmy!
+Dlaczego nas nienawidzicie?!
+
+1008
+01:39:13,300 --> 01:39:15,300
+/Zastrzel ją,
+/jeśli znów się odezwie.
+
+1009
+01:39:15,400 --> 01:39:19,200
+/Davidzie, kontynuuj.
+/Powiedz mu, dlaczego przybyłem.
+
+1010
+01:39:37,800 --> 01:39:39,900
+Nie!
+
+1011
+01:39:44,500 --> 01:39:47,300
+Ford! Odsuń się!
+
+1012
+01:40:04,900 --> 01:40:07,000
+Niczego tam...
+
+1013
+01:40:07,000 --> 01:40:09,500
+nie ma.
+
+1014
+01:40:13,800 --> 01:40:16,300
+Wiem.
+
+1015
+01:40:16,500 --> 01:40:20,100
+Udanej podróży, panie Weyland.
+
+1016
+01:40:25,900 --> 01:40:28,700
+Pora wracać do domu.
+
+1017
+01:40:40,900 --> 01:40:44,200
+Panie Chance,
+proszę nas zabrać do domu.
+
+1018
+01:42:05,600 --> 01:42:08,400
+- Kapitanie?
+- Co to było, do cholery?
+
+1019
+01:42:52,700 --> 01:42:55,700
+Prometeusz!
+Zgłoście się!
+
+1020
+01:42:55,800 --> 01:43:00,200
+- Shaw? To ty? Odbiór.
+/- Janek, wysłuchaj mnie.
+
+1021
+01:43:00,600 --> 01:43:02,700
+- Ten statek właśnie startuje!
+- Co?
+
+1022
+01:43:02,700 --> 01:43:05,900
+- Co ona bredzi?
+/- Nie możesz na to pozwolić!
+
+1023
+01:43:06,000 --> 01:43:07,300
+/Musisz go powstrzymać!
+
+1024
+01:43:07,300 --> 01:43:10,100
+Niczego nie powstrzymujemy.
+Wracamy do domu.
+
+1025
+01:43:10,200 --> 01:43:15,200
+Janek, jeśli tego nie powstrzymasz,
+to nie będzie dokąd wracać!
+
+1026
+01:43:16,400 --> 01:43:19,500
+Ten statek przewozi śmierć
+i kieruje się na Ziemię!
+
+1027
+01:43:19,600 --> 01:43:21,900
+- Shaw, to nie statek bojowy.
+/- Wiem.
+
+1028
+01:43:22,000 --> 01:43:24,700
+- Startujmy.
+- Wiem o tym.
+
+1029
+01:43:24,700 --> 01:43:26,900
+Ale musisz to zrobić.
+
+1030
+01:43:27,000 --> 01:43:31,500
+- Startujmy, kapitanie!
+/- Janek, błagam, uwierz mi!
+
+1031
+01:43:46,100 --> 01:43:49,800
+- Kazałam ci startować.
+- Panie Ravel.
+
+1032
+01:43:49,800 --> 01:43:52,700
+- Proszę włączyć napęd jonowy.
+- O czym ty mówisz?
+
+1033
+01:43:52,800 --> 01:43:56,100
+- Odpalenie go w atmosferze...
+- Zamieni nas w pocisk.
+
+1034
+01:43:56,200 --> 01:43:58,200
+- O to chodzi.
+- Co ty wyprawiasz?
+
+1035
+01:43:58,200 --> 01:44:00,900
+To mój statek.
+Rozkazuję ci zabrać nas do domu!
+
+1036
+01:44:00,900 --> 01:44:04,900
+Wystrzelę twój moduł.
+To da ci dwa lata życia.
+
+1037
+01:44:05,100 --> 01:44:08,000
+Chcesz je
+czy wolisz zostać ze mną?
+
+1038
+01:44:08,500 --> 01:44:11,200
+Masz 40 sekund na dotarcie
+do kapsuły ratunkowej.
+
+1039
+01:44:11,300 --> 01:44:15,400
+- Zwariowałeś.
+- Panowie, poradzę sobie.
+
+1040
+01:44:16,000 --> 01:44:18,100
+Możecie dołączyć
+do panny Vickers.
+
+1041
+01:44:18,100 --> 01:44:21,000
+Z całym szacunkiem,
+ale gówniany z pana pilot.
+
+1042
+01:44:21,000 --> 01:44:23,000
+Przyda się panu każda pomoc.
+
+1043
+01:44:39,200 --> 01:44:43,200
+/Jeśli nie możesz być
+/z osobą, którą kochasz...
+
+1044
+01:44:44,600 --> 01:44:49,000
+Mylisz się, jeśli myślisz,
+że to anuluje zakład.
+
+1045
+01:44:49,900 --> 01:44:52,100
+Zapłacisz mi po drugiej stronie.
+
+1046
+01:44:52,200 --> 01:44:56,700
+Podlećcie jak najbliżej.
+Mamy tylko jedną szansę.
+
+1047
+01:45:10,100 --> 01:45:13,000
+Wystrzeliwuję kapsuły.
+
+1048
+01:45:15,700 --> 01:45:19,200
+/20 sekund do ewakuacji.
+
+1049
+01:45:26,100 --> 01:45:28,900
+- Odliczanie rozpoczęte.
+- Napęd jonowy włączony.
+
+1050
+01:45:28,900 --> 01:45:32,900
+/- 10, 9, 8...
+- Szybciej!
+
+1051
+01:45:45,200 --> 01:45:49,500
+/- 3, 2...
+- Do dzieła, panowie!
+
+1052
+01:45:50,500 --> 01:45:52,500
+/Zderzenie nieuchronne.
+
+1053
+01:45:52,500 --> 01:45:55,000
+Ręce ze sterów!
+
+1054
+01:46:30,300 --> 01:46:32,800
+O Boże.
+
+1055
+01:47:18,300 --> 01:47:20,800
+Nie! Nie!
+
+1056
+01:47:37,200 --> 01:47:39,600
+O Boże...
+
+1057
+01:47:54,900 --> 01:47:59,500
+/Uwaga! Tlenu wystarczy
+/na dwie minuty.
+
+1058
+01:48:46,800 --> 01:48:51,300
+/Uwaga! Tlenu wystarczy
+/na 30 sekund.
+
+1059
+01:49:04,200 --> 01:49:08,800
+/Œluza zamknięta.
+/Wyrównywanie poziomu tlenu.
+
+1060
+01:50:27,200 --> 01:50:31,000
+/Elizabeth, jesteś tam?
+/Mówi David.
+
+1061
+01:50:32,200 --> 01:50:37,200
+- Jestem.
+- Musisz natychmiast uciekać.
+
+1062
+01:50:37,700 --> 01:50:40,500
+/- Idzie po ciebie?
+- Kto?
+
+1063
+01:50:40,500 --> 01:50:43,400
+/Uszkodzenie śluzy.
+
+1064
+01:50:51,400 --> 01:50:54,000
+Giń!
+
+1065
+01:52:17,800 --> 01:52:25,300
+Tak mi przykro...
+Boże, tak mi przykro...
+
+1066
+01:52:25,600 --> 01:52:32,000
+Wybacz mi, Charlie.
+Nie dam rady.
+
+1067
+01:52:35,800 --> 01:52:40,000
+/Elizabeth.
+/Jesteś tam?
+
+1068
+01:52:45,200 --> 01:52:48,600
+/Doktor Shaw?
+/Słyszy mnie pani?
+
+1069
+01:52:49,900 --> 01:52:54,000
+Tak, słyszę cię.
+
+1070
+01:52:55,200 --> 01:52:58,600
+Bałem się,
+że pani nie żyje.
+
+1071
+01:52:59,100 --> 01:53:02,700
+Nie masz pojęcia,
+czym jest strach.
+
+1072
+01:53:02,800 --> 01:53:10,900
+Były między nami różnice w poglądach,
+ale potrzebuję pani pomocy.
+
+1073
+01:53:11,800 --> 01:53:15,300
+/Dlaczego miałabym ci pomóc?
+
+1074
+01:53:15,900 --> 01:53:20,500
+Bo beze mnie
+nie opuści pani tego miejsca.
+
+1075
+01:53:20,700 --> 01:53:24,000
+Żadne z nas go nie opuści.
+
+1076
+01:53:24,000 --> 01:53:27,200
+To nie był jedyny statek.
+
+1077
+01:53:28,300 --> 01:53:31,300
+/Jest wiele innych.
+
+1078
+01:53:31,600 --> 01:53:34,600
+Potrafię nimi sterować.
+
+1079
+01:53:42,100 --> 01:53:44,600
+Doktor Shaw?
+
+1080
+01:53:56,300 --> 01:53:58,800
+Doktor Shaw!
+
+1081
+01:53:59,100 --> 01:54:01,600
+Tutaj.
+
+1082
+01:54:05,900 --> 01:54:10,000
+- Gdzie mój krzyżyk?
+- Przy moim pasku.
+
+1083
+01:54:29,000 --> 01:54:33,100
+Pani wciąż wierzy,
+nawet po tym wszystkim.
+
+1084
+01:54:34,000 --> 01:54:37,600
+Powiedziałeś, że znasz się
+na ich nawigacji?
+
+1085
+01:54:37,700 --> 01:54:40,300
+Potrafisz czytać ich mapy?
+
+1086
+01:54:40,700 --> 01:54:42,400
+Oczywiście.
+
+1087
+01:54:42,400 --> 01:54:48,200
+Gdy dostaniemy się na ich statek,
+odnalezienie Ziemi nie nastręczy problemów.
+
+1088
+01:54:48,800 --> 01:54:53,200
+Nie chcę wracać tam,
+skąd przybyliśmy.
+
+1089
+01:54:53,600 --> 01:54:57,400
+Chcę polecieć tam,
+skąd przybyli oni.
+
+1090
+01:54:57,700 --> 01:55:01,400
+Potrafisz to zrobić?
+
+1091
+01:55:04,000 --> 01:55:07,000
+Tak.
+Uważam, że tak.
+
+1092
+01:55:16,800 --> 01:55:20,200
+Co chce pani osiągnąć?
+
+1093
+01:55:20,200 --> 01:55:24,600
+Stworzyli nas,
+a potem próbowali zgładzić.
+
+1094
+01:55:24,700 --> 01:55:28,000
+Zmienili zdanie.
+
+1095
+01:55:28,200 --> 01:55:31,800
+Zasługuję na to,
+by wiedzieć, dlaczego.
+
+1096
+01:55:31,900 --> 01:55:34,800
+Odpowiedź jest nieistotna.
+
+1097
+01:55:34,800 --> 01:55:37,700
+Czy to ważne,
+dlaczego zmienili zdanie?
+
+1098
+01:55:37,700 --> 01:55:41,300
+Tak.
+
+1099
+01:55:43,000 --> 01:55:45,700
+Nie rozumiem.
+
+1100
+01:55:48,600 --> 01:55:52,000
+Pewnie dlatego,
+że ja jestem człowiekiem,
+
+1101
+01:55:52,000 --> 01:55:54,700
+a ty robotem.
+
+1102
+01:56:03,400 --> 01:56:07,300
+- Przepraszam.
+- Nie szkodzi.
+
+1103
+01:56:20,800 --> 01:56:23,700
+/Ostatni raport z Prometeusza.
+
+1104
+01:56:23,700 --> 01:56:27,100
+/Statek został zniszczony,
+/a cała załoga nie żyje.
+
+1105
+01:56:27,200 --> 01:56:32,400
+/Jeśli otrzymaliście tę wiadomość,
+/to nie próbujcie dotrzeć do jej źródła.
+
+1106
+01:56:32,800 --> 01:56:37,600
+/Panuje tu jedynie śmierć,
+/a ja zostawiam ją za sobą.
+
+1107
+01:56:38,100 --> 01:56:42,500
+/Jest 1 stycznia
+/roku Pańskiego 2094.
+
+1108
+01:56:44,000 --> 01:56:46,700
+/Nazywam się Elizabeth Shaw.
+
+1109
+01:56:46,700 --> 01:56:50,200
+/Jestem ostatnią ocalałą
+/z Prometeusza...
+
+1110
+01:56:50,300 --> 01:56:53,600
+/i kontynuuję poszukiwania.
+
+1111
+01:58:07,300 --> 01:58:11,800
+Sensu istnienia szukali - Chudy & Igloo666
+
+1112
+01:58:12,000 --> 01:58:17,200
+W czarnej mazi babrał się - Highlander
+
+1113
+01:58:17,500 --> 01:58:22,100
+.::DarkProject SubGroup::.
+DarkProject.org
+
+1114
+01:58:22,300 --> 01:58:27,400
+.:: GrupaHatak.pl ::.
+>> Release24.pl <<
+
+1115
+01:58:27,500 --> 01:58:32,700
+<<KinoMania SubGroup>>
+KinoMania.org
+
+1116
+01:58:34,700 --> 01:58:37,700
+.::  ::.
+
+
+1117
+01:58:46,700 --> 01:58:50,650
+www.NapiProjekt.pl - nowa jakosc napisów.
+Napisy zostaly specjalnie dopasowane do Twojej wersji filmu.
+
