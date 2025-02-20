@@ -1,0 +1,46 @@
+.container {
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+}
+
+.drop-zone {
+    border: 2px dashed #ccc;
+    border-radius: 8px;
+    padding: 2rem;
+    text-align: center;
+    transition: border-color 0.3s ease;
+}
+
+.drop-zone.drag-over {
+    border-color: #2196F3;
+    background-color: rgba(33, 150, 243, 0.1);
+}
+
+.file-input {
+    display: none;
+}
+
+.file-input-label {
+    background-color: #2196F3;
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    cursor: pointer;
+    display: inline-block;
+    margin-top: 1rem;
+}
+
+.file-list {
+    margin-top: 2rem;
+}
+
+.file-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.5rem;
+    border: 1px solid #eee;
+    margin-bottom: 0.5rem;
+    border-radius: 4px;
+}

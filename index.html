@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Konwerter Znaków</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <main class="container">
+        <div class="drop-zone" id="dropZone">
+            <div class="drop-zone-content">
+                <p>Przeciągnij pliki tutaj lub</p>
+                <input type="file" id="fileInput" multiple accept=".txt,.srt,.sub,.sbt,.dat" class="file-input">
+                <label for="fileInput" class="file-input-label">Wybierz pliki</label>
+            </div>
+        </div>
+        <div id="fileList" class="file-list"></div>
+    </main>
+    <script src="script.js"></script>
+</body>
+</html>
