@@ -92,18 +92,22 @@ class FileConverter {
     }
 
     trackConversion(fileName, fileSize) {
-        gtag('event', 'file_conversion', {
-            'file_name': fileName,
-            'file_size': fileSize,
-            'file_type': fileName.split('.').pop().toLowerCase()
-        });
+        if (typeof gtag === 'function') {
+            gtag('event', 'file_conversion', {
+                'file_name': fileName,
+                'file_size': fileSize,
+                'file_type': fileName.split('.').pop().toLowerCase()
+            });
+        }
     }
 
     trackError(errorType, fileName) {
-        gtag('event', 'conversion_error', {
-            'error_type': errorType,
-            'file_name': fileName
-        });
+        if (typeof gtag === 'function') {
+            gtag('event', 'conversion_error', {
+                'error_type': errorType,
+                'file_name': fileName
+            });
+        }
     }
 
     async processFiles(files) {
@@ -201,9 +205,12 @@ class LanguageManager {
         // Save language preference
         localStorage.setItem('preferredLanguage', lang);
 
-        gtag('event', 'language_change', {
-            'language': lang
-        });
+        // Bezpieczne wywołanie gtag
+        if (typeof gtag === 'function') {
+            gtag('event', 'language_change', {
+                'language': lang
+            });
+        }
     }
 }
 
