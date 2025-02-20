@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://salmon-cliff-070cd0610.4.azurestaticapps.net/sitemap.xml 
