@@ -15,6 +15,7 @@ Aplikacja do konwersji polskich znaków w napisach do filmów. Prosta w obsłudz
 5. Strona powinna być responsywna i wyświetlać się poprawnie na urządzeniach o róznych rozdzielczosciach i wielkosciach ekranu.
 6. Strona powinna być indeksowana przez wyszukiwarki internetowe.
 7. Dodanie analityki strony (google analytics)
+
 # dokumentacja
 
 Znaki, które należy zamienić i ich odpowiedniki (pliki `script.js` korzystają z tego obiektu):

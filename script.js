@@ -13,7 +13,11 @@ const translations = {
         after: 'Po konwersji',
         dragDropText: 'Przeciągnij pliki tutaj lub',
         selectFiles: 'Wybierz pliki',
-        portfolio: 'Moje Portfolio'
+        portfolio: 'Moje Portfolio',
+        allowedFormats: 'Dozwolone formaty: .txt, .srt, .sub, .sbt, .dat',
+        maxFileSize: 'Maksymalny rozmiar pliku: 2MB',
+        fileTooLarge: 'Plik jest zbyt duży. Maksymalny rozmiar to 2MB',
+        invalidFileType: 'Niedozwolony format pliku'
     },
     en: {
         title: 'Polish Characters Converter',
@@ -23,7 +27,11 @@ const translations = {
         after: 'After conversion',
         dragDropText: 'Drag files here or',
         selectFiles: 'Select files',
-        portfolio: 'My Portfolio'
+        portfolio: 'My Portfolio',
+        allowedFormats: 'Allowed formats: .txt, .srt, .sub, .sbt, .dat',
+        maxFileSize: 'Maximum file size: 2MB',
+        fileTooLarge: 'File is too large. Maximum size is 2MB',
+        invalidFileType: 'Invalid file type'
     }
 };
 
@@ -32,6 +40,8 @@ class FileConverter {
         this.dropZone = document.getElementById('dropZone');
         this.fileInput = document.getElementById('fileInput');
         this.fileList = document.getElementById('fileList');
+        this.MAX_FILE_SIZE = 2 * 1024 * 1024; // 2MB w bajtach
+        this.ALLOWED_TYPES = ['.txt', '.srt', '.sub', '.sbt', '.dat'];
         this.initializeEventListeners();
     }
 
@@ -64,14 +74,33 @@ class FileConverter {
         this.processFiles(files);
     }
 
+    validateFile(file) {
+        // Sprawdzanie rozmiaru pliku
+        if (file.size > this.MAX_FILE_SIZE) {
+            alert(translations[document.documentElement.lang].fileTooLarge);
+            return false;
+        }
+
+        // Sprawdzanie rozszerzenia pliku
+        const extension = '.' + file.name.split('.').pop().toLowerCase();
+        if (!this.ALLOWED_TYPES.includes(extension)) {
+            alert(translations[document.documentElement.lang].invalidFileType);
+            return false;
+        }
+
+        return true;
+    }
+
     async processFiles(files) {
         for (const file of files) {
-            try {
-                const content = await this.readFile(file);
-                const convertedContent = this.convertContent(content);
-                this.downloadFile(convertedContent, file.name);
-            } catch (error) {
-                console.error(`Error processing file ${file.name}:`, error);
+            if (this.validateFile(file)) {
+                try {
+                    const content = await this.readFile(file);
+                    const convertedContent = this.convertContent(content);
+                    this.downloadFile(convertedContent, file.name);
+                } catch (error) {
+                    console.error(`Error processing file ${file.name}:`, error);
+                }
             }
         }
     }

@@ -36,9 +36,16 @@
     <main class="container">
         <div class="drop-zone" id="dropZone">
             <div class="drop-zone-content">
-                <p><span data-translate="dragDropText">Przeciągnij pliki tutaj lub</span></p>
+                <p>
+                    <span data-translate="dragDropText">Przeciągnij pliki tutaj lub</span>
+                </p>
                 <input type="file" id="fileInput" multiple accept=".txt,.srt,.sub,.sbt,.dat" class="file-input">
                 <label for="fileInput" class="file-input-label" data-translate="selectFiles">Wybierz pliki</label>
+                <p>
+                    <small data-translate="allowedFormats">Dozwolone formaty: .txt, .srt, .sub, .sbt, .dat</small>
+                    <br>
+                    <small data-translate="maxFileSize">Maksymalny rozmiar pliku: 2MB</small>
+                </p>
             </div>
         </div>
         <div id="fileList" class="file-list"></div>
