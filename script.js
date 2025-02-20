@@ -91,6 +91,21 @@ class FileConverter {
         return true;
     }
 
+    trackConversion(fileName, fileSize) {
+        gtag('event', 'file_conversion', {
+            'file_name': fileName,
+            'file_size': fileSize,
+            'file_type': fileName.split('.').pop().toLowerCase()
+        });
+    }
+
+    trackError(errorType, fileName) {
+        gtag('event', 'conversion_error', {
+            'error_type': errorType,
+            'file_name': fileName
+        });
+    }
+
     async processFiles(files) {
         for (const file of files) {
             if (this.validateFile(file)) {
@@ -98,9 +113,14 @@ class FileConverter {
                     const content = await this.readFile(file);
                     const convertedContent = this.convertContent(content);
                     this.downloadFile(convertedContent, file.name);
+                    
+                    this.trackConversion(file.name, file.size);
                 } catch (error) {
                     console.error(`Error processing file ${file.name}:`, error);
+                    this.trackError('processing_error', file.name);
                 }
+            } else {
+                this.trackError('validation_error', file.name);
             }
         }
     }
@@ -180,6 +200,10 @@ class LanguageManager {
 
         // Save language preference
         localStorage.setItem('preferredLanguage', lang);
+
+        gtag('event', 'language_change', {
+            'language': lang
+        });
     }
 }
 
