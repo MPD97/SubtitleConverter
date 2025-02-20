@@ -21,9 +21,9 @@ Aplikacja do konwersji polskich znaków w napisach do filmów. Prosta w obsłudz
 Znaki, które należy zamienić i ich odpowiedniki (pliki `script.js` korzystają z tego obiektu):
 ```js
 const replacements = {
-    '³': 'ł', 'ê': 'ę', '¿': 'ż', '¹': 'ą', 'æ': 'ć',
-    'Ÿ': 'ź', 'ñ': 'ń', '¯': 'Ż', '¥': 'Ą', 'Ê': 'Ę',
-    'Ñ': 'Ń', '\u008F': 'Ź', 'œ': 'ś' 
+    '³': 'ł', '£': 'Ł', 'ê': 'ę', 'Ê': 'Ę', '¿': 'ż', '¯': 'Ż',
+    '¹': 'ą', '¥': 'Ą', 'æ': 'ć', 'Æ': 'Ć', 'Ÿ': 'ź', '\u008F': 'Ź',
+    'ñ': 'ń', 'Ñ': 'Ń', 'œ': 'ś', 'Œ': 'Ś'
 };
 ```
 
