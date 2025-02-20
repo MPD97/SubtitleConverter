@@ -4,6 +4,29 @@ const replacements = {
     'Ñ': 'Ń', '\u008F': 'Ź', 'œ': 'ś'
 };
 
+const translations = {
+    pl: {
+        title: 'Konwerter Polskich Znaków',
+        description1: 'Aplikacja do konwersji polskich znaków w napisach do filmów. Prosta w obsłudze strona, która pozwala szybko zamienić tekst z napisów, usuwając lub poprawiając polskie znaki. Idealne rozwiązanie dla osób, które potrzebują szybkiej korekty w swoich plikach napisów.',
+        description2: 'Poniżej prezentujemy efekt działania narzędzia – zdjęcia przed i po konwersji. Jeśli podoba ci się to, co robię, możesz wesprzeć projekt, kupując mi kawę! :)',
+        before: 'Przed konwersją',
+        after: 'Po konwersji',
+        dragDropText: 'Przeciągnij pliki tutaj lub',
+        selectFiles: 'Wybierz pliki',
+        portfolio: 'Moje Portfolio'
+    },
+    en: {
+        title: 'Polish Characters Converter',
+        description1: 'Application for converting Polish characters in movie subtitles. An easy-to-use website that allows you to quickly convert subtitle text by removing or fixing Polish characters. Perfect solution for those who need quick corrections in their subtitle files.',
+        description2: 'Below we present the tool\'s effect - before and after conversion images. If you like what I do, you can support the project by buying me a coffee! :)',
+        before: 'Before conversion',
+        after: 'After conversion',
+        dragDropText: 'Drag files here or',
+        selectFiles: 'Select files',
+        portfolio: 'My Portfolio'
+    }
+};
+
 class FileConverter {
     constructor() {
         this.dropZone = document.getElementById('dropZone');
@@ -83,7 +106,56 @@ class FileConverter {
     }
 }
 
-// Initialize the converter when the DOM is loaded
+class LanguageManager {
+    constructor() {
+        this.currentLang = this.getBrowserLanguage();
+        this.init();
+    }
+
+    getBrowserLanguage() {
+        const browserLang = navigator.language.split('-')[0];
+        return ['pl', 'en'].includes(browserLang) ? browserLang : 'en';
+    }
+
+    init() {
+        this.initLanguageSwitcher();
+        this.setLanguage(this.currentLang);
+    }
+
+    initLanguageSwitcher() {
+        const buttons = document.querySelectorAll('.lang-btn');
+        buttons.forEach(btn => {
+            btn.addEventListener('click', () => {
+                const lang = btn.dataset.lang;
+                this.setLanguage(lang);
+            });
+        });
+    }
+
+    setLanguage(lang) {
+        this.currentLang = lang;
+        document.documentElement.lang = lang;
+        
+        // Update active button state
+        document.querySelectorAll('.lang-btn').forEach(btn => {
+            btn.classList.toggle('active', btn.dataset.lang === lang);
+        });
+
+        // Update translations
+        document.querySelectorAll('[data-translate]').forEach(element => {
+            const key = element.dataset.translate;
+            if (translations[lang][key]) {
+                element.textContent = translations[lang][key];
+            }
+        });
+
+        // Save language preference
+        localStorage.setItem('preferredLanguage', lang);
+    }
+}
+
+// Initialize both classes when the DOM is loaded
 document.addEventListener('DOMContentLoaded', () => {
     new FileConverter();
+    new LanguageManager();
 });

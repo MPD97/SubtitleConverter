@@ -11,7 +11,7 @@ wykorzystane technologie:
 2. W stopce strony znajduje się odnośnik do portfolio oraz przycisk "Buy me a coffee".
 3. W górnej części strony znajduje się nagłówek z nazwą strony i jej opisem. Strona ma za zadanie konwertować polskie znaki w plikach wejściowych napisów filmów. poniżej znaduje sie zdjęcie przed konwersją (przed.png) i po konwersji (po.png). Treść opisu:
 Aplikacja do konwersji polskich znaków w napisach do filmów. Prosta w obsłudze strona, która pozwala szybko zamienić tekst z napisów, usuwając lub poprawiając polskie znaki. Idealne rozwiązanie dla osób, które potrzebują szybkiej korekty w swoich plikach napisów. Poniżej prezentujemy efekt działania narzędzia – zdjęcia przed i po konwersji. Jeśli podoba ci się to, co robię, możesz wesprzeć projekt, kupując mi kawę! :)
-4. Strona powinna wyświetlać się w jezyku polskim lub w jezyku angielskim w zaleznosci od przeglądarki uzytkownika. 
+4. Strona powinna wyświetlać się w jezyku polskim lub w jezyku angielskim w zaleznosci od przeglądarki uzytkownika. Użytkownik moze zmienić język strony na angielski wyswietlajac za pomocą wybrania flagi w naglowku strony.
 5. Strona powinna być responsywna i wyświetlać się poprawnie na urządzeniach o róznych rozdzielczosciach i wielkosciach ekranu.
 6. Strona powinna być indeksowana przez wyszukiwarki internetowe.
 7. Dodanie analityki strony (google analytics)

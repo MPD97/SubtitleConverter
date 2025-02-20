@@ -167,3 +167,36 @@ figcaption {
         font-size: 1.5rem;
     }
 }
+
+.language-switcher {
+    position: fixed;
+    top: 1rem;
+    right: 1rem;
+    z-index: 1000;
+    display: flex;
+    gap: 0.5rem;
+}
+
+.lang-btn {
+    background: none;
+    border: 2px solid transparent;
+    cursor: pointer;
+    padding: 0.25rem;
+    border-radius: 4px;
+    transition: all 0.3s ease;
+}
+
+.lang-btn:hover {
+    border-color: #2196F3;
+}
+
+.lang-btn.active {
+    border-color: #2196F3;
+    background-color: rgba(33, 150, 243, 0.1);
+}
+
+.flag-icon {
+    width: 1.5rem;
+    height: 1.5rem;
+    display: block;
+}

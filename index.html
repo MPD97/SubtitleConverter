@@ -5,41 +5,50 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Konwerter Znaków</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/css/flag-icon.min.css">
 </head>
 <body>
+    <div class="language-switcher">
+        <button class="lang-btn" data-lang="pl">
+            <span class="flag-icon flag-icon-pl"></span>
+        </button>
+        <button class="lang-btn" data-lang="en">
+            <span class="flag-icon flag-icon-gb"></span>
+        </button>
+    </div>
     <header class="header">
-        <h1>Konwerter Polskich Znaków</h1>
+        <h1 data-translate="title">Konwerter Polskich Znaków</h1>
         <div class="description">
-            <p>Aplikacja do konwersji polskich znaków w napisach do filmów. Prosta w obsłudze strona, która pozwala szybko zamienić tekst z napisów, usuwając lub poprawiając polskie znaki. Idealne rozwiązanie dla osób, które potrzebują szybkiej korekty w swoich plikach napisów.</p>
-            <p>Poniżej prezentujemy efekt działania narzędzia – zdjęcia przed i po konwersji. Jeśli podoba ci się to, co robię, możesz wesprzeć projekt, kupując mi kawę! :)</p>
+            <p data-translate="description1">Aplikacja do konwersji polskich znaków w napisach do filmów. Prosta w obsłudze strona, która pozwala szybko zamienić tekst z napisów, usuwając lub poprawiając polskie znaki. Idealne rozwiązanie dla osób, które potrzebują szybkiej korekty w swoich plikach napisów.</p>
+            <p data-translate="description2">Poniżej prezentujemy efekt działania narzędzia – zdjęcia przed i po konwersji. Jeśli podoba ci się to, co robię, możesz wesprzeć projekt, kupując mi kawę! :)</p>
         </div>
         <div class="comparison-images">
             <figure>
                 <img src="przed.png" alt="Przykład napisów przed konwersją" class="comparison-img">
-                <figcaption>Przed konwersją</figcaption>
+                <figcaption data-translate="before">Przed konwersją</figcaption>
             </figure>
             <figure>
                 <img src="po.png" alt="Przykład napisów po konwersji" class="comparison-img">
-                <figcaption>Po konwersji</figcaption>
+                <figcaption data-translate="after">Po konwersji</figcaption>
             </figure>
         </div>
     </header>
     <main class="container">
         <div class="drop-zone" id="dropZone">
             <div class="drop-zone-content">
-                <p>Przeciągnij pliki tutaj lub</p>
+                <p><span data-translate="dragDropText">Przeciągnij pliki tutaj lub</span></p>
                 <input type="file" id="fileInput" multiple accept=".txt,.srt,.sub,.sbt,.dat" class="file-input">
-                <label for="fileInput" class="file-input-label">Wybierz pliki</label>
+                <label for="fileInput" class="file-input-label" data-translate="selectFiles">Wybierz pliki</label>
             </div>
         </div>
         <div id="fileList" class="file-list"></div>
     </main>
     <footer class="footer">
         <div class="footer-content">
-            <a href="https://buymeacoffee.com/mateusza" target="_blank" class="coffee-button">
+            <a href="https://www.buymeacoffee.com" target="_blank" class="coffee-button">
                 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40">
             </a>
-            <a href="portfoliompd-cqdvc0h0aucxcace.polandcentral-01.azurewebsites.net" class="portfolio-link">Moje Portfolio</a>
+            <a href="#" class="portfolio-link" data-translate="portfolio">Moje Portfolio</a>
         </div>
     </footer>
     <script src="script.js"></script>
