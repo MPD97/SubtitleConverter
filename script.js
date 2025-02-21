@@ -17,7 +17,8 @@ const translations = {
         allowedFormats: 'Dozwolone formaty: .txt, .srt, .sub, .sbt, .dat',
         maxFileSize: 'Maksymalny rozmiar pliku: 2MB',
         fileTooLarge: 'Plik jest zbyt duży. Maksymalny rozmiar to 2MB',
-        invalidFileType: 'Niedozwolony format pliku'
+        invalidFileType: 'Niedozwolony format pliku',
+        privacy: 'Polityka Prywatności'
     },
     en: {
         title: 'Polish Characters Converter',
@@ -31,7 +32,8 @@ const translations = {
         allowedFormats: 'Allowed formats: .txt, .srt, .sub, .sbt, .dat',
         maxFileSize: 'Maximum file size: 2MB',
         fileTooLarge: 'File is too large. Maximum size is 2MB',
-        invalidFileType: 'Invalid file type'
+        invalidFileType: 'Invalid file type',
+        privacy: 'Privacy Policy'
     }
 };
 
