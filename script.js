@@ -14,11 +14,14 @@ const translations = {
         dragDropText: 'Przeciągnij pliki tutaj lub',
         selectFiles: 'Wybierz pliki',
         portfolio: 'Moje Portfolio',
-        allowedFormats: 'Dozwolone formaty: .txt, .srt, .sub, .sbt, .dat',
+        allowedFormats: 'Dozwolone formaty: ',
         maxFileSize: 'Maksymalny rozmiar pliku: 2MB',
         fileTooLarge: 'Plik jest zbyt duży. Maksymalny rozmiar to 2MB',
         invalidFileType: 'Niedozwolony format pliku',
-        privacy: 'Polityka Prywatności'
+        privacy: 'Polityka Prywatności',
+        cookieText: 'Ta strona używa plików cookie do analizy ruchu. Więcej informacji znajdziesz w <a href="privacy.html" class="cookie-link">Polityce Prywatności</a>. Czy wyrażasz zgodę na używanie plików cookie?',
+        cookieAccept: 'Akceptuję',
+        cookieReject: 'Odrzucam'
     },
     en: {
         title: 'Polish Characters Converter',
@@ -29,11 +32,14 @@ const translations = {
         dragDropText: 'Drag files here or',
         selectFiles: 'Select files',
         portfolio: 'My Portfolio',
-        allowedFormats: 'Allowed formats: .txt, .srt, .sub, .sbt, .dat',
+        allowedFormats: 'Allowed formats: ',
         maxFileSize: 'Maximum file size: 2MB',
         fileTooLarge: 'File is too large. Maximum size is 2MB',
         invalidFileType: 'Invalid file type',
-        privacy: 'Privacy Policy'
+        privacy: 'Privacy Policy',
+        cookieText: 'This site uses cookies for traffic analysis. For more information, see our <a href="privacy.html" class="cookie-link">Privacy Policy</a>. Do you consent to the use of cookies?',
+        cookieAccept: 'Accept',
+        cookieReject: 'Reject'
     }
 };
 
@@ -216,8 +222,68 @@ class LanguageManager {
     }
 }
 
+class CookieConsent {
+    constructor() {
+        this.cookieConsent = document.getElementById('cookieConsent');
+        this.acceptBtn = document.getElementById('acceptCookies');
+        this.rejectBtn = document.getElementById('rejectCookies');
+        this.cookieKey = 'cookieConsent';
+        
+        // Sprawdź zgodę od razu przy inicjalizacji
+        const consent = localStorage.getItem(this.cookieKey);
+        if (consent === null) {
+            this.showConsent();
+        } else if (consent === 'accepted') {
+            this.hideConsent();
+            this.enableAnalytics();
+        } else {
+            this.showConsent();
+        }
+
+        this.bindEvents();
+    }
+
+    showConsent() {
+        if (this.cookieConsent) {
+            this.cookieConsent.style.display = 'block';
+        }
+    }
+
+    hideConsent() {
+        if (this.cookieConsent) {
+            this.cookieConsent.style.display = 'none';
+        }
+    }
+
+    bindEvents() {
+        if (this.acceptBtn) {
+            this.acceptBtn.addEventListener('click', () => {
+                localStorage.setItem(this.cookieKey, 'accepted');
+                this.enableAnalytics();
+                this.hideConsent();
+            });
+        }
+
+        if (this.rejectBtn) {
+            this.rejectBtn.addEventListener('click', () => {
+                localStorage.setItem(this.cookieKey, 'rejected');
+                this.hideConsent();
+            });
+        }
+    }
+
+    enableAnalytics() {
+        console.log('Włączanie analytics');
+        if (typeof gtag === 'function') {
+            gtag('js', new Date());
+            gtag('config', 'G-HC5R0Z7KCC');
+        }
+    }
+}
+
 // Initialize both classes when the DOM is loaded
 document.addEventListener('DOMContentLoaded', () => {
     new FileConverter();
     new LanguageManager();
+    new CookieConsent();
 });

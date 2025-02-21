@@ -3,13 +3,6 @@
 <head>
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-HC5R0Z7KCC"></script>
-    <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'G-HC5R0Z7KCC');
-    </script>
      
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -77,7 +70,10 @@
                 <input type="file" id="fileInput" multiple accept=".txt,.srt,.sub,.sbt,.dat" class="file-input">
                 <label for="fileInput" class="file-input-label" data-translate="selectFiles">Wybierz pliki</label>
                 <p>
-                    <small data-translate="allowedFormats">Dozwolone formaty: .txt, .srt, .sub, .sbt, .dat</small>
+                    <small data-translate="allowedFormats">Dozwolone formaty: </small>
+                    <small>
+                        <b>.txt, .srt, .sub, .sbt, .dat</b>
+                    </small>
                     <br>
                     <small data-translate="maxFileSize">Maksymalny rozmiar pliku: 2MB</small>
                 </p>
@@ -98,6 +94,19 @@
             </div>
         </div>
     </footer>
+    <div id="cookieConsent" class="cookie-consent">
+        <div class="cookie-content">
+            <p class="cookie-text">
+                Ta strona używa plików cookie do analizy ruchu. Więcej informacji znajdziesz w 
+                <a href="privacy.html" class="cookie-link">Polityce Prywatności</a>. 
+                Czy wyrażasz zgodę na używanie plików cookie?
+            </p>
+            <div class="cookie-buttons">
+                <button class="cookie-btn cookie-btn-accept" id="acceptCookies">Akceptuję</button>
+                <button class="cookie-btn cookie-btn-reject" id="rejectCookies">Odrzucam</button>
+            </div>
+        </div>
+    </div>
     <script src="script.js"></script>
 </body>
 </html>

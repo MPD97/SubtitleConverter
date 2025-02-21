@@ -330,7 +330,7 @@ body {
     border-radius: 0.5rem;
     cursor: pointer;
     display: inline-block;
-    margin-top: 1.5rem;
+    margin: 1.5rem;
     font-weight: 500;
     transition: all 0.3s ease;
     box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
@@ -385,7 +385,6 @@ figure {
 }
 
 figcaption {
-    margin-top: 1rem;
     font-weight: 500;
     color: #666;
 }
@@ -460,3 +459,126 @@ figcaption {
         background: var(--background-dark);
     }
 }
+
+/* Cookie Consent */
+.cookie-consent {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    background: white;
+    padding: 1.5rem;
+    box-shadow: 0 -4px 6px -1px rgba(0, 0, 0, 0.1);
+    z-index: 9999;
+    border-top: 1px solid #e5e7eb;
+}
+
+.cookie-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2rem;
+}
+
+.cookie-text {
+    color: var(--text-secondary);
+    font-size: 0.95rem;
+    line-height: 1.5;
+}
+
+.cookie-buttons {
+    display: flex;
+    gap: 1rem;
+    flex-shrink: 0;
+}
+
+.cookie-btn {
+    padding: 0.75rem 1.5rem;
+    border-radius: 0.5rem;
+    border: none;
+    cursor: pointer;
+    font-weight: 500;
+    transition: all 0.3s ease;
+}
+
+.cookie-btn-accept {
+    background: var(--primary-color);
+    color: white;
+}
+
+.cookie-btn-accept:hover {
+    background: var(--primary-hover);
+    transform: translateY(-1px);
+}
+
+.cookie-btn-reject {
+    background: #e5e7eb;
+    color: var(--text-primary);
+}
+
+.cookie-btn-reject:hover {
+    background: #d1d5db;
+    transform: translateY(-1px);
+}
+
+/* Responsywność */
+@media (max-width: 768px) {
+    .cookie-content {
+        flex-direction: column;
+        text-align: center;
+    }
+    
+    .cookie-buttons {
+        width: 100%;
+        justify-content: center;
+    }
+    
+    .cookie-text {
+        margin-bottom: 1rem;
+    }
+}
+
+/* Dark mode */
+@media (prefers-color-scheme: dark) {
+    .cookie-consent {
+        background: var(--background-dark);
+        border-top: 1px solid rgba(255, 255, 255, 0.1);
+    }
+
+    .cookie-btn-reject {
+        background: #374151;
+        color: #fff;
+    }
+
+    .cookie-btn-reject:hover {
+        background: #4b5563;
+    }
+}
+
+/* Dodaj style dla linku w banerze cookie */
+.cookie-link {
+    color: var(--primary-color);
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.3s ease;
+}
+
+.cookie-link:hover {
+    color: var(--primary-hover);
+    text-decoration: underline;
+}
+
+/* Dark mode */
+@media (prefers-color-scheme: dark) {
+    .cookie-link {
+        color: #60a5fa;
+    }
+    
+    .cookie-link:hover {
+        color: #93c5fd;
+    }
+}
+
